@@ -1,38 +1,26 @@
 # OOL TECH CONNECT
 
-本リポジトリは[OOL TECH CONNECT](https://www.okinawaopenlabs.org/ooltechconnect)の情報を公開しています。
+本リポジトリでは[OOL TECH CONNECT](https://www.okinawaopenlabs.org/ooltechconnect)で使用する情報を公開しています。
 
 ## 事前準備
 
-### Googleアカウント作成
+- [Googleアカウント作成](GoogleAccount.md)
+- [Microsoftアカウント作成](MSAccount.md)
+- [生成AI.GO無料β版登録](GenAIGO.md)
 
-<https://www.google.com/>
+## AIチャット
 
-Googleのホームページへ移動
+- [AIチャットを体験しよう](AIChat.md)
 
-**Googleアカウントがない方**
+## 画像生成AI
 
-右上のログインをクリック
+- [画像生成AIを体験しよう](ImageGenAI.md)
 
-「アカウント作成」＞「自分用」を選択
+## 音声認識AI
 
-姓名とユーザ名(@gmail.com)とパスワードを入力
+- [音声認識AIを体験しよう](VoiceRecogAI.md)
 
-※　ユーザ名は他と重複している場合は別のものにする必要があり、後で変更できないので注意
+## 文章認識AI
 
-電話番号や再設定用メールアドレスは省略可能
-
-電話番号を入力するとその電話番号に確認コードが送られてくるのでそれを入力する
-
-生年月日や性別も入力
-
-プライバシーポリシーと利用規約に同意
-
-**Googleアカウントがすでにある方**
-
-ログイン後、右上のアカウントアイコンをクリック
-
-「別のアカウントを追加」＞「自分用」を選択
-
-あとは新規と同じ
+- [文章認識AIを体験しよう](TextRecogAI.md)
 
