@@ -6,6 +6,7 @@
 
 - [Googleアカウント作成](GoogleAccount.md)
 - [Microsoftアカウント作成](MSAccount.md)
+- [Microsoft Edgeのインストール](MSEdgeInstall.md)
 - [生成AI.GO無料β版登録](GenAIGO.md)
 
 ## AIチャット
