@@ -21,11 +21,13 @@
 
 - サイト\(<https://replit.com/>\)にアクセス
 - 右上の「Sign up」をクリック
-- Googleアカウントでログイン
-- アンケートが出るので答えるかSkipする
-- チュートリアルが表示されるので確認するか右上の×をクリックしてスキップする
+- 「Continue with Google」を選択して、Googleアカウントでログイン
+- アンケート画面になる (「Skip」してOK)
+- ホーム画面になる
+- チュートリアルが表示される (右上の×をクリックしてスキップしてもOK)
 - 「+Create Repl」をクリック
-- Templateの「Seach Template」欄にhtmlと入力して「HTML,CSS,JS」を選択
+- 「Create Repl」のウィンドウが開く
+- Templateの「Seach Template」欄に`html`と入力して「HTML,CSS,JS」を選択
 - Titleにプロジェクト名を入力。日本語でもOK
 - 右下にある「+Create Repl」をクリック
 - `index.html`、`script.js`、`style.css`が生成されるので編集
