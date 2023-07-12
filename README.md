@@ -5,9 +5,9 @@
 ## 事前準備
 
 - [Googleアカウント作成](Preparation/GoogleAccount.md)
-- [Microsoftアカウント作成](MSAccount.md)
-- [Microsoft Edgeのインストール](MSEdgeInstall.md)
-- [生成AI.GO無料β版登録](GenAIGO.md)
+- [Microsoftアカウント作成](Preparation/MSAccount.md)
+- [Microsoft Edgeのインストール](Preparation/MSEdgeInstall.md)
+- [生成AI.GO無料β版登録](Preparation/GenAIGO.md)
 
 ## AIチャット
 
