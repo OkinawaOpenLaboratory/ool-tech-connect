@@ -19,7 +19,7 @@
 
 ## 音声認識AI
 
-- [音声認識AIを体験しよう](VoiceRecogAI.md)
+- [音声認識AIを体験しよう](VoiceRecogAI/VoiceRecogAI.md)
 
 ## 文章認識AI
 
