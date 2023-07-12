@@ -15,7 +15,7 @@
 
 ## 画像生成AI
 
-- [画像生成AIを体験しよう](ImageGenAI.md)
+- [画像生成AIを体験しよう](ImageGenAI/ImageGenAI.md)
 
 ## 音声認識AI
 
