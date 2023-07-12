@@ -23,5 +23,5 @@
 
 ## 文章認識AI
 
-- [文章認識AIを体験しよう](TextRecogAI.md)
+- [文章認識AIを体験しよう](TextRecogAI/TextRecogAI.md)
 
