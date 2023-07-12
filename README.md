@@ -11,7 +11,7 @@
 
 ## AIチャット
 
-- [AIチャットを体験しよう](AIChat.md)
+- [AIチャットを体験しよう](AIChat/AIChat.md)
 
 ## 画像生成AI
 
