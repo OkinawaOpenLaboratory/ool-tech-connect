@@ -26,6 +26,10 @@
 
 - [ぱくたそ](https://www.pakutaso.com/)
 
+## Openpose用素材
+
+[<img src="pose.png" width="10%">](pose.png)
+
 ## Scribble用落書き素材
 
 [<img src="scribble_input.png" width="10%">](scribble_input.png)
