@@ -43,7 +43,9 @@ WhisperをJAXを用いて高速化したもの。本家の70倍以上のスピ�
 
 **デモページの使用方法(YouTube動画)**
 
-- youtubeのURLをコピーしておく
+- 文字起こししたいYouTubeのURLをコピー
+  - 特に希望がない場合は下記のYouTube URLを右クリックして「リンクのアドレスをコピー」)
+  - [【ChatGPT】テキスト生成AIの実力は？アフター検索の未来図も？](https://www.youtube.com/watch?v=cxORx5wOeV0)
 - 上記の「デモページ」のリンクをクリック
 - 左上のタブで「YouTube」を選択
 - YouTube URLにコピーしたURLを貼り付け
