@@ -25,3 +25,7 @@
 
 - [文章認識AIを体験しよう](TextRecogAI/TextRecogAI.md)
 
+## 関連リンク
+
+- [その他AI関連リンク](Links/Links.md)
+
