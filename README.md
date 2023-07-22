@@ -35,7 +35,7 @@
 
 - [最新ジェネレーティブAIの動向](OTC20230721/最新ジェネレーティブAIの動向.pdf)
 - [ChatGPT活用事例紹介](OTC20230721/OOL%20TECH%20CONNECT%20ChatGPT活用事例紹介.pdf)
-- GPT活用事例紹介 \(※公開可否確認中\)
+- [AIxDataOps -AIを活用したデータ利活用促進の取り組み-](OTC20230721/AI_DataOpsの取り組み紹介.pdf)
 
 ### ハンズオン
 
