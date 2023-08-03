@@ -4,7 +4,7 @@
 
 - GitHubリポジトリ → [GitHub : openai / whisper](https://github.com/openai/whisper)
 
-- Colab用ノートブック → [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/VoiceRecogAI/whisper_large.ipynb)
+- Colab用ノートブック → [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/OTC20230721/VoiceRecogAI/whisper_large.ipynb)
 
 　※ このColab用ノートブックは下記サイトに掲載されているノートブックのmodelを"base"から"large"に変更したものです。
 
