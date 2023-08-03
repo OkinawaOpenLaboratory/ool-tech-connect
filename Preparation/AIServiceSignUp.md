@@ -32,6 +32,8 @@
 - 「Login to Leonardo.Ai」をクリック
 - 「Continue with Google」をクリックしてGoolgeアカウントでログイン
 - Welcome to Leonardo.Ai画面になるのでユーザ名、興味のある分野、NSFW(アダルトコンテンツ)表示設定を確認して「Next」
-  - NSFW表示設定のチェックはオフにしておくことをお勧めします。
-- 「Ensusiast」などをクリックして「Start using Leonardo」をクリック
+  - NSFW表示設定のチェックはオフにしておくことをお勧めします
+- Which role best describes you?画面になるので「Enthusiast」などを選択して「Start using Leonardo」をクリック
+- Welcome to Leonardo Ai!というウィンドウが表示された画面になれば登録完了
+- ブラウザの右上の×をクリックして終了
 
