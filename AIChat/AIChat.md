@@ -44,7 +44,7 @@ OOL TECH CONNECTというイベントを9/22に開催するのでその案内文
 
 - [Replit](https://replit.com/)にアクセス
 - 右上の「Log in」をクリック
-  - Replitに登録をしていない方→ [サービス登録](../Preparation/AIServiceSignUp.md)
+  - Replitに登録をしていない方→ [サービス登録](../Preparation/ServiceSignUp.md)
 - 「+Create Repl」をクリック
 - 「Create Repl」のウィンドウが開く
 - Templateの「Seach Template」欄に`html`と入力して「HTML,CSS,JS」を選択
