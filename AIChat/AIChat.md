@@ -100,7 +100,11 @@ htmlだけ、javascriptだけの回答を提示してきたら次のプロンプ
 
 ## (STEP2-0) Bing Chatにログイン
 
-- [Bing Chat](https://www.bing.com/)にアクセス
+- Microsoft Edgeを起動
+- 検索エリアに`bing`と入力
+- 検索結果の「Bing (https://www.bing.com)」をクリック
+- 右上のログインをクリック
+- サインイン画面になるのでMicrosoftアカウントでログイン
 - 上部の「チャット」をクリック
 - Microsoft Edge以外のブラウザの場合、「Microsoft Edgeで開く」ボタンをクリック
 - 会話のスタイルを選択して利用開始
