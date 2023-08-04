@@ -191,7 +191,19 @@ htmlだけ、javascriptだけの回答を提示してきたら次のプロンプ
 
 ### (3-5) ChatGPTで○×ゲームをプログラミングしよう
 
-プロンプト
+#### Javascriptコードの実行環境Replitを立ち上げよう
+
+- [Replit](https://replit.com/)にアクセス
+- 「+Create Repl」をクリック
+- 「Create Repl」のウィンドウが開く
+- Templateの「Seach Template」欄に`html`と入力して「HTML,CSS,JS」を選択
+- Titleにプロジェクト名を入力。日本語でもOK
+- 右下にある「+Create Repl」をクリック
+- `index.html`、`script.js`、`style.css`が生成される
+
+#### ChatGPTにプログラムを作成させよう
+
+下記のプロンプトを入力しましょう
 
 `○×ゲームのjavascriptをreplit形式で教えて`
 
@@ -199,20 +211,23 @@ html,css,jsの三つのファイルが出力されていない場合は以下の
 
 `html,css,jsの三つのファイルを作成して`
 
-- index.htmlのコード右上のCopy codeを選択してコードをコピー
-- Replitの左メニューのindex.htmlをクリックして、コード部分を表示させる
+#### ChatGPTに出力されたコードをReplitへコピーしよう
+
+- ChatGPT画面のHTML(index.html)のコード右上のCopy codeを選択してコードをコピー
+- Replit画面の左メニューのindex.htmlをクリックして、コード部分を表示させる
   - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
-- styles.cssのコード右上のCopy codeを選択してコードをコピー
-- Replitの左メニューのstyles.cssをクリックして、コード部分を表示させる
+- ChatGPT画面のCSS(styles.css)のコード右上のCopy codeを選択してコードをコピー
+- Replit画面の左メニューのstyles.cssをクリックして、コード部分を表示させる
   - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
-- script.jsのコード右上のCopy codeを選択してコードをコピー
-- Replitの左メニューのscript.jsをクリックして、コード部分を表示させる
+- ChatGPT画面のJavaScript(script.js)のコード右上のCopy codeを選択してコードをコピー
+- Replit画面の左メニューのscript.jsをクリックして、コード部分を表示させる
   - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
 
-コードの実行
+#### Replitでコードを実行させてみよう
 
 - 上部の「Run」をクリックするとコードが実行される
 
+### プログラムの修正を依頼してみよう
 
 このゲームはいろいろ不具合がでてくるので修正してほしい内容をプロンプトに入力する
 
