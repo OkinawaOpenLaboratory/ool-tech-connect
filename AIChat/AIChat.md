@@ -102,7 +102,7 @@ htmlだけ、javascriptだけの回答を提示してきたら次のプロンプ
 
 - Microsoft Edgeを起動
 - 検索エリアに`bing`と入力
-- 検索結果の「Bing (https://www.bing.com)」をクリック
+- 検索結果の「Bing ( https://www.bing.com )」をクリック
 - 右上のログインをクリック
 - サインイン画面になるのでMicrosoftアカウントでログイン
 - 上部の「チャット」をクリック
