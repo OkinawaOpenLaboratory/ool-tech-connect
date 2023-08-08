@@ -276,7 +276,7 @@ html,css,jsの三つのファイルが出力されていない場合は以下の
   - プロンプト入力欄へ画像をドラッグ＆ドロップ
   - プロンプト入力欄のカメラアイコンをクリックして「このデバイスからアップロード」を選択し、Webページ画像をアップロード
 
-#### 画像について質問する
+#### 画像のレイアウトのWebページ作成を依頼する
 
 さらに下記のプロンプトを入力しよう
 
@@ -284,6 +284,30 @@ html,css,jsの三つのファイルが出力されていない場合は以下の
 
 ※ 現時点では日本語の内容や画面の背景色は正しく認識してくれないようです。
 
+#### Replitの立ち上げ
 
+- [Replit](https://replit.com/)にアクセス
+- 「+Create Repl」をクリック
+- 「Create Repl」のウィンドウが開く
+- Templateの「Seach Template」欄に`html`と入力して「HTML,CSS,JS」を選択
+- Titleにプロジェクト名を入力。日本語でもOK
+- 右下にある「+Create Repl」をクリック
+- `index.html`、`script.js`、`style.css`が生成される
 
+#### Bing Chatが出力したコードをReplitへコピーしよう
+
+- Bing Chat画面のHTML(index.html)のコード右上のCopy codeを選択してコードをコピー
+- Replit画面の左メニューのindex.htmlをクリックして、コード部分を表示させる
+  - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
+- Bing Chat画面のCSS(styles.css)のコード右上のCopy codeを選択してコードをコピー
+- Replit画面の左メニューのstyles.cssをクリックして、コード部分を表示させる
+  - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
+
+#### ReplitでWebページを表示させよう
+
+- Replit画面上部の「Run」をクリックすると右エリアにWebページが表示される
+
+#### Webデザインの修正を依頼してみよう
+
+- リンクが縦でなく横に並んでいたりしたら、`リンクは縦に並べてください`のように修正を指示して、修正されたコードをReplitに貼って表示させてみよう
 
