@@ -33,16 +33,3 @@
 - デイリー報酬10,000の獲得ウィンドウが開くので「クレジットを獲得」をクリック
 - ブラウザの右上の×をクリックして終了
 
-## Leonardo.Aiへの登録
-
-- [Leonardo.Ai](https://leonardo.ai/)にアクセス
-- 「Launch App」をクリック
-- 「Yes, I’m whitelisted」をクリック
-- 「Login to Leonardo.Ai」をクリック
-- 「Continue with Google」をクリックしてGoolgeアカウントでログイン
-- Welcome to Leonardo.Ai画面になるのでユーザ名、興味のある分野、NSFW(アダルトコンテンツ)表示設定を確認して「Next」
-  - NSFW表示設定のチェックはオフにしておくことをお勧めします
-- Which role best describes you?画面になるので「Enthusiast」などを選択して「Start using Leonardo」をクリック
-- Welcome to Leonardo Ai!というウィンドウが表示された画面になれば登録完了
-- ブラウザの右上の×をクリックして終了
-
