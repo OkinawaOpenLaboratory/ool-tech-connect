@@ -1,5 +1,35 @@
 # その他AI関連リンク
 
+## AIチャット
+
+- [Google Bard](https://bard.google.com/)
+
+## 画像生成AI
+
+- [Bing Image Creator](https://www.bing.com/create)
+- [Canva](https://www.canva.com/ja_jp/)
+- [Leonardo.Ai](https://leonardo.ai/)
+- [Seaart](https://www.seaart.ai/)
+
+### モデル・LoRA公開サイト
+
+- [CIVIT AI](https://civitai.com/)
+- [Hugging Face](https://huggingface.co/)
+
+### プロンプト解析サイト
+
+- [Unprompt AI](https://unprompt.ai/)
+- [methexis-inc/img2prompt](https://replicate.com/methexis-inc/img2prompt)
+
+### フリー素材サイト
+
+- [ぱくたそ](https://www.pakutaso.com/)
+
+### ポーズ取得サイト
+
+- [OpenPoses\(ポーズ集\)](https://openposes.com/)
+- [3D Openpose Editor](https://zhuyu1997.github.io/open-pose-editor/)
+
 ## AIアバター
 
 - [Creative Reality Studio](https://www.d-id.com/creative-reality-studio/)
