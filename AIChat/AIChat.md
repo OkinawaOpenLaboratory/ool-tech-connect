@@ -7,7 +7,9 @@
 - 「Log in」をクリック
 - Googleアカウントでログイン
 
-※ 登録をしていない方→ [サービス登録](../Preparation/ServiceSignUp.md)
+※ Googleアカウント登録をしていない方→ [Googleアカウント作成](../Preparation/GoogleAccount.md)
+
+※ ChatGPTに登録をしていない方→ [サービス登録](../Preparation/ServiceSignUp.md)
 
 ## (STEP1-1) ChatGPTで案内文を作成する
 
@@ -108,6 +110,8 @@ htmlだけ、javascriptだけの回答を提示してきたら次のプロンプ
 - 上部の「チャット」をクリック
 - Microsoft Edge以外のブラウザの場合、「Microsoft Edgeで開く」ボタンをクリック
 - 会話のスタイルを選択して利用開始
+
+※ Microsoftアカウント登録をしていない方→ [Microsoftアカウント作成](../Preparation/MSAccount.md)
 
 ## (STEP2-1) Bing Chatに画像を入力して内容を質問する
 
