@@ -6,6 +6,8 @@
 - 右上の「ログイン」ボタンをクリック (ユーザ名が表示されている場合はSTEP1-1へ進む)
 - 「Continue with Google account」をクリックして、Googleアカウントでログイン
 
+※ PixAIに登録をしていない方→ [サービス登録](../Preparation/ServiceSignUp.md)
+
 ## (STEP1-1) PixAIで画像を生成してみよう
 
 ### 画像生成画面へ移動
