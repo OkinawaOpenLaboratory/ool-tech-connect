@@ -6,6 +6,7 @@
 - 「Try ChatGPT」をクリック
 - 「Log in」をクリック
 - Googleアカウントでログイン
+- 「ChatGPT」を選択
 
 ※ Googleアカウント登録をしていない方→ [Googleアカウント作成](../Preparation/GoogleAccount.md)
 
