@@ -67,7 +67,9 @@ masterpiece, best quality, 1 girl, business suit
 - 右下の「確認」をクリックしてControlNetの設定は完了
 - プロンプトの入力エリアに下記テキストを入力後、「生成しましょう！」をクリックして画像を生成
 
-`masterpiece, best quality, 1 girl, business suit`
+```
+masterpiece, best quality, 1 girl, business suit
+```
 
 ## (STEP1-3) PixAIでControlNetを使ってみよう(2)
 
@@ -86,7 +88,9 @@ masterpiece, best quality, 1 girl, business suit
 - 右下の「確認」をクリックしてControlNetの設定は完了
 - プロンプトの入力エリアに下記テキストを入力後、「生成しましょう！」をクリックして画像を生成
 
-`masterpiece, best quality, 1 girl, having an apple`
+```
+masterpiece, best quality, 1 girl, having an apple
+```
 
 ## (STEP2) いろいろ試してみよう
 
@@ -96,9 +100,13 @@ masterpiece, best quality, 1 girl, business suit
 
 **例**
 
-`幻想的な森の風景`
+```
+幻想的な森の風景
+```
 
-`かわいい子犬`
+```
+かわいい子犬
+```
 
 ※ `空飛ぶお城`だと空に浮かぶお城の画像が生成されないが、`flying castle`にするときちんと空に浮かぶお城の画像が生成されるので、細かい点を反映させたい場合は英語で入力したほうがよい
 
@@ -110,9 +118,13 @@ masterpiece, best quality, 1 girl, business suit
 
 **例**
 
-`握手するビジネスマン`
+```
+握手するビジネスマン
+```
 
-`渋滞する交差点`
+```
+渋滞する交差点
+```
 
 ### (2-3) 生成画像ギャラリーを利用して画像を生成する
 
