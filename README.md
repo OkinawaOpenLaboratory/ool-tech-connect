@@ -2,6 +2,18 @@
 
 本リポジトリでは[OOL TECH CONNECT](https://www.okinawaopenlabs.org/ooltechconnect)で使用する情報を公開しています。
 
+## 資料
+
+### セミナー
+
+- [最新ジェネレーティブAIの動向](OTC20230922/最新ジェネレーティブAIの動向-2309.pdf)
+- [ChatGPT活用事例紹介](OTC20230922/OOL%20TECH%20CONNECT%20ChatGPT活用事例紹介.pdf)
+- [生成AIを活用したオープンデータ活用](OTC20230922/生成AIを活用したオープンデータ活用.pdf)
+
+### ハンズオン
+
+- [最新AIを体験しよう](OTC20230922/最新AIを体験しよう-2309.pdf)
+
 ## 事前準備
 
 - [Googleアカウント作成](Preparation/GoogleAccount.md)
