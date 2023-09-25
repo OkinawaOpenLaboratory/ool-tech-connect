@@ -2,7 +2,7 @@
 
 本リポジトリでは[OOL TECH CONNECT](https://www.okinawaopenlabs.org/ooltechconnect)で使用する情報を公開しています。
 
-## 資料
+## 資料(2023/9/22開催分)
 
 ### セミナー
 
