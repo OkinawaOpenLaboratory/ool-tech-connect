@@ -6,7 +6,6 @@
 
 - [Googleアカウント作成](Preparation/GoogleAccount.md)
 - [Microsoftアカウント作成](Preparation/MSAccount.md)
-- [Microsoft Edgeのインストール](Preparation/MSEdgeInstall.md)
 - [利用するサービスへの登録](Preparation/ServiceSignUp.md)
 
 ## AIチャット
