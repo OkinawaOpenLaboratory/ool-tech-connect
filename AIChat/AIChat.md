@@ -199,14 +199,11 @@ No	地方公共団体コード	地方公共団体名	内容
 
 ## (STEP2-0) Bing Chatにログイン
 
-- Microsoft Edgeを起動
-- 検索エリアに`bing`と入力
-- 検索結果の「Bing ( https://www.bing.com )」をクリック
+- [Bing](https://www.bing.com)を右クリックして「新しいウィンドウで開く」
 - 右上のログインをクリック
 - サインイン画面になるのでMicrosoftアカウントでログイン
 - 上部の「チャット」をクリック
-- Microsoft Edge以外のブラウザの場合、「Microsoft Edgeで開く」ボタンをクリック
-- 会話のスタイルを選択して利用開始
+- 会話のスタイル(「よりバランスよく」等)を選択して利用開始
 
 ※ Microsoftアカウント登録をしていない方→ [Microsoftアカウント作成](../Preparation/MSAccount.md)
 
@@ -401,7 +398,11 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
 - [CNN news](https://edition.cnn.com/)にアクセスして英文記事を開く
 - 英文記事のURLをコピー
-- `このサイトを日本語で要約して。`とプロンプトで入力後、コピーした内容をペースト
+- コピーしたURLをプロンプト欄に貼り付け後、下記の内容をコピペしてプロンプトを送信
+
+```
+このサイトを日本語で要約して。
+```
 
 ### (4-7) Bing Chatに観光案内してもらう
 
@@ -436,7 +437,8 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 さらに下記のプロンプトを入力しよう
 
 ```
-この画像のレイアウトになるようにindex.htmlを作成してください
+この画像のレイアウトになるようにindex.html,style.cssを作成してください。
+画面の英文は日本語に直さずに英文のまま作成してください
 ```
 
 ※ 現時点では日本語の内容や画面の背景色は正しく認識してくれないようです。
@@ -466,5 +468,18 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
 #### Webデザインの修正を依頼してみよう
 
-- リンクが縦でなく横に並んでいたりしたら、`リンクは縦に並べてください`のように修正を指示して、修正されたコードをReplitに貼って表示させてみよう
+リンクが縦でなく横に並んでいたりしたら、下記のように修正を指示して、修正されたコードをReplitに貼って表示させてみよう
 
+```
+リンクは縦に並べてください
+```
+
+修正依頼したら変更部分だけを表示された場合は全体を表示してくださいと要求しましょう。
+
+```
+変更部分だけでなくstyle.css全体を表示してください
+```
+
+```
+変更部分だけでなくinedex.html全体を表示してください
+```
