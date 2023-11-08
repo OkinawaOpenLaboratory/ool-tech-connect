@@ -103,7 +103,7 @@
 
 ### キーワード抽出用画像のダウンロード
 
-[<img src="keyword.png" width="10%">](keyword.png)　キーワード抽出用画像
+[<img src="keyword.jpg" width="10%">](keyword.jpg)　キーワード抽出用画像
 
 - 上記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
 
