@@ -78,6 +78,14 @@
 - Replit画面の上部の「Run」をクリックしてコードを実行させる
 - Replit画面の右側にテキストエリアが生成されるので文字を入力して赤い文字列が表示されることを確認しよう
 
+### Replitの動作がおかしいときには、JSFiddleでコードを実行させてみよう
+
+- [JSFiddle](https://jsfiddle.net/)にアクセス
+- 「HTML▼」の下のにindex.htmlの内容をコピペ
+- 「CSS▼」の下のにstyle.cssの内容をコピペ
+- 「JavaScript+No-Library(pure JS)▼」の下のにscript.jsの内容をコピペ
+- 左上の「＞Run」をクリックするとコードが実行されて、右下のResultエリアに実行結果が表示される
+
 ### 実行結果がうまく動作しないときには
 
 うまく動作しないことをChatGPTに伝えて修正してもらおう！
@@ -254,12 +262,20 @@ No	地方公共団体コード	地方公共団体名	内容
 - 経済産業省 : 2023年版 ものづくり白書 概要
   - <https://www.meti.go.jp/report/whitepaper/mono/2023/pdf/gaiyo.pdf>
 
-### Google Colabでプログラムを実行
+### OpenAI API Keyを入手
+
+OOL TECH CONNECT開催中のみ有効にしてあるAPI KeyをGoogle Driveから入手
 
 - OTC参加者用 Googledrive
   - <https://drive.google.com/drive/folders/1Bbro9LBXtr4-S1VFBl9p2nhn9FoW700l>
 - 上記URLを右クリックして「新しいウィンドウで開く」を選択
-- 「OpenAIAPI_MultifFiles.ipynb」をダブルクリックして開く
+- 「APIKey」をダブルクリックして開く
+- 「sk-***」と表記されているのがAPI Key
+
+### Google Colabでプログラムを実行
+
+- [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/AIChat/OpenAIAPI.ipynb)
+- 上記の「Colab用ノートブック」のリンクを右クリックして「新しいウィンドウで開く」
 - 左上のメニューの「ファイル」＞「ドライブにコピーを保存」をクリック
 - 新しいタブが開くので、そちらのタブへ移動
 - 左にあるフォルダアイコンをクリックして、開いたペインにある上向き矢印のアイコンをクリックしてgaiyo.pdfをアップロードする
