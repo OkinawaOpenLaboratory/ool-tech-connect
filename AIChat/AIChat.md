@@ -498,3 +498,33 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 ```
 変更部分だけでなくinedex.html全体を表示してください
 ```
+
+### (4-9) モバイル版ChatGPTで音声を使った会話をしてみよう
+
+#### モバイル版ChatGPTのインストールとアプリの起動
+
+- Androidの場合 : Playストアをクリックして上部の検索窓で「chatgpt」と入力
+  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「インストール」
+  - 「開く」になったらクリックしてアプリを起動
+- iPhoneの場合 : App Storeをクリックして上部の検索窓で「chatgpt」と入力
+  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「入手」
+  - 「開く」になったらクリックしてアプリを起動
+
+#### モバイル版ChatGPTへのログインして会話をしてみよう
+
+- 「Log in」画面になるので「Continue with Google」をクリック
+- アカウントを選択してログイン (メールアドレスとパスワード入力が必要になる場合もあります)
+- 「Welcome to ChatGPT」画面になるので「Continue」
+- ヘッドホンマークをクリック
+- 「Introducing voice conversations」画面になるので「Continue」
+- 「Choose a voice」画面になるので音声を「Sky(女性)、Breeze(女性)、Ember(男性)、Juniper(女性)、Cove(男性)」から選択して「Confirm」
+- 「音声の録音をChatGPTに許可しますか」と聞かれるので「アプリの使用時のみ」を選択 (Android版の場合)
+- 「通知の送信をChatGPTに許可しますか」と聞かれるので「許可」を選択 (Android版の場合)
+- 音声で会話しましょう
+
+話す内容が思いつかないなら以下の例を試してみよう
+
+```
+今から英文を話すので間違っていたら日本語で指摘してください。
+I enjoyed to play soccer.
+```
