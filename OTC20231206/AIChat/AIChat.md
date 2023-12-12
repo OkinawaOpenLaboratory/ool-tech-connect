@@ -274,7 +274,7 @@ OOL TECH CONNECT開催中のみ有効にしてあるAPI KeyをGoogle Driveから
 
 ### Google Colabでプログラムを実行
 
-- [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/AIChat/OpenAIAPI.ipynb)
+- [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/OTC20231206/AIChat/OpenAIAPI.ipynb)
 - 上記の「Colab用ノートブック」のリンクを右クリックして「新しいウィンドウで開く」
 - 左上のメニューの「ファイル」＞「ドライブにコピーを保存」をクリック
 - 新しいタブが開くので、そちらのタブへ移動
