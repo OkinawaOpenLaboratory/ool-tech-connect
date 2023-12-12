@@ -5,7 +5,7 @@
 ### セミナー
 
 - [AIの進化と革新：生成AIとは何か？](AIの進化と革新：生成AIとは何か？-2312.pdf)
-- [生成AIを活用したオープンデータ活用](第四回OOLTechConnect資料.pdf)
+- [生成AIを活用したオープンデータ利活用促進](第四回OOLTechConnect資料.pdf)
 - [ChatGPT活用事例紹介](OOL%20TECH%20CONNECT%20ChatGPT活用事例紹介.pdf)
 
 ### ハンズオン
