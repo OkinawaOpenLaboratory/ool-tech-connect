@@ -5,28 +5,11 @@
 ## 事前準備
 
 - [Googleアカウント作成](Preparation/GoogleAccount.md)
-- [Microsoftアカウント作成](Preparation/MSAccount.md)
-- [利用するサービスへの登録](Preparation/ServiceSignUp.md)
+- [ChatGPTへの登録](Preparation/ChatGPTSignUp.md)
 
-## AIチャット
+## プレゼンテーションの作成
 
-- [AIチャットを体験しよう](AIChat/AIChat.md)
-
-## 画像生成AI
-
-- [画像生成AIを体験しよう](ImageGenAI/ImageGenAI.md)
-
-## 音声認識AI
-
-- [音声認識AIを体験しよう](VoiceRecogAI/VoiceRecogAI.md)
-
-## 文章認識AI
-
-- [文章認識AIを体験しよう](TextRecogAI/TextRecogAI.md)
-
-## 関連リンク
-
-- [その他AI関連リンク](Links/Links.md)
+- [プレゼンテーションの作成](Presentation/Presentation.md)
 
 ## 過去の開催
 
