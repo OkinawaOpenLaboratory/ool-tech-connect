@@ -126,13 +126,13 @@
 - 「生成しましょう！」をクリックして画像を生成
 
 
-## (STEP2-0) Bing Image Creatorにログイン
+## (STEP2-0) Microsoft Designer Image Creatorにログイン
 
-- [Bing Image Creator](https://www.bing.com/images/create)を右クリックして「新しいウィンドウで開く」
+- [Image Creator](https://copilot.microsoft.com/images/create)を右クリックして「新しいウィンドウで開く」
 - 「参加して作成」ボタンをクリック
 - サインイン画面になるのでMicrosoftアカウントでログイン
 
-## (STEP2-1) Bing Image Creatorで画像を作成
+## (STEP2-1) Image Creatorで画像を作成
 
 下記のプロンプトをコピーしてプロンプト入力欄に貼り付け後、「作成」ボタンをクリック
 
@@ -142,11 +142,11 @@
 
 **注意事項**
 
-- Bing Imgge Creatorで作成した画像を指定して削除することはできません
+- Imgge Creatorで作成した画像を指定して削除することはできません
 - 20回画像を生成するとそれ以前の生成画像は「作品」の履歴から削除されます
 - 生成した画像をクリックするとダウンロードすることができます
 
-## (STEP2-2) Bing Image Creatorで画像を作成 (2)
+## (STEP2-2) Image Creatorで画像を作成 (2)
 
 下記のプロンプトをコピーしてプロンプト入力欄に貼り付け後、「作成」ボタンをクリック
 
@@ -156,7 +156,7 @@
 
 ## (STEP3) いろいろ試してみよう
 
-### (3-1) Bing Image Creatorで他の画像を作成してみる
+### (3-1) Image Creatorで他の画像を作成してみる
 
 **プロンプト例**
 
