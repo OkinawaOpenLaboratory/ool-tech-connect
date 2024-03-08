@@ -84,6 +84,12 @@
 - [PaLI-3 (Google)](https://huggingface.co/papers/2310.09199)
 - [ImageBind (Meta)](https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/)
 
+## AI搭載ガジェット
+
+- [Ai Pin](https://humane.com/aipin)
+- [rabbit r1](https://www.rabbit.tech/)
+- [Frame](https://brilliant.xyz/)
+
 ## ロボット技術
 
 - [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
