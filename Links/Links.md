@@ -2,7 +2,7 @@
 
 ## AIチャット
 
-- [Google Bard](https://bard.google.com/)
+- [Google Gemini](https://gemini.google.com/)
 
 ## 画像生成AI
 
@@ -43,6 +43,7 @@
 
 - [Gen-2](https://research.runwayml.com/gen2)
 - [Kaiber](https://kaiber.ai/)
+- [Sora](https://openai.com/sora)
 - [Vrew](https://vrew.voyagerx.com/ja/)
 - [fliki](https://fliki.ai/)
 
@@ -50,7 +51,8 @@
 
 - [Soundraw](https://soundraw.io/ja)
 - [Mubert](https://mubert.com/)
-- [MusicLM](https://aitestkitchen.withgoogle.com/experiments/music-lm)
+- [Suno AI](https://www.suno.ai/)
+- [Stable Audio](https://www.stableaudio.com/)
 
 ## 音声生成AI
 
@@ -60,15 +62,27 @@
 ## プログラミング補助AI
 
 - [GitHub Copilot](https://github.com/features/copilot)
+- [Cursor](https://cursor.sh/)
 
 ## 3Dオブジェクト生成
 
 - [DreamFusion](https://dreamfusion3d.github.io/)
 - [Point-E](https://github.com/openai/point-e)
+- [Wonder3D](https://github.com/xxlong0/Wonder3D/)
 
 ## 3Dモーション生成
 
 - [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+
+## マルチモーダルAI
+
+- [BLIP / BLIP-2 (Salesforce)](https://huggingface.co/Salesforce/blip2-flan-t5-xxl)
+- [Git (Microsoft)](https://huggingface.co/microsoft/git-base)
+- [LLaVA-1.5 (ウィスコンシン大学&Microsoft)](https://llava-vl.github.io/)
+- [Ferret (Apple)](https://arxiv.org/abs/2310.07704v1)
+- [MiniGPT-v2 (King Abdullah大学&Meta)](https://minigpt-v2.github.io/)
+- [PaLI-3 (Google)](https://huggingface.co/papers/2310.09199)
+- [ImageBind (Meta)](https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/)
 
 ## ロボット技術
 
