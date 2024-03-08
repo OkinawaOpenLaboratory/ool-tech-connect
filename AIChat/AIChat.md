@@ -300,6 +300,7 @@ GXとは何ですか
 ## (STEP4-1) AI専用チップ「groq」を用いた高速AIチャットを体験しよう
 
 - [groq](https://groq.com/)を右クリックして「新しいウィンドウで開く」
+- 「Login to try GroqChat」のウィンドウが開くので、「Login with Google」を選択しGoogleアカウントでログイン
 - 「Enter prompt here」の部分に下記の文を入力しよう
 
 ```
