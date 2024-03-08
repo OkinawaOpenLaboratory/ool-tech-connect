@@ -28,9 +28,9 @@
 
 - [その他AIを体験しよう](OtherAI/OtherAI.md)
 
-## 関連リンク
+## AI関連リンク
 
-- [その他AI関連リンク](Links/Links.md)
+- [AI関連リンク](Links/Links.md)
 
 ## 過去の開催
 
