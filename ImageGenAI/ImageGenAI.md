@@ -154,9 +154,46 @@
 データセンターでサーバーを交換する技術者、フラットデザイン
 ```
 
-## (STEP3) いろいろ試してみよう
+## (STEP3-1) PixAI.Artでリアルタイムが画像生成を体験しよう
 
-### (3-1) Image Creatorで他の画像を作成してみる
+- PirxAI.Artのウィンドウに移動
+  - もうウィンドウを閉じている場合は、[PixAI.Art](https://pixai.art/)を右クリックして「新しいウィンドウで開く」
+- 右上の「画像」「リアルタイム」「動画コミック」という選択肢の「リアルタイム」を選択
+- プロンプト欄に入力した内容に応じて画像がリアルタイムに変化するので、下記のプロンプトを順番に入力してみよう
+
+```
+a dog
+```
+
+```
+a dog running a beach
+```
+
+```
+a dog running a beach, white hair
+```
+
+```
+a dog running a beach, white hair, with a girl
+```
+
+## (STEP3-2) SDXL-Lightningの高速画像生成を体験しよう
+
+- [SDXL-Lightning](https://huggingface.co/spaces/ByteDance/SDXL-Lightning)を右クリックして「新しいウィンドウで開く」
+- 「Enter your prompt(English)」欄にプロンプトを入力すると画像が高速生成されるので下記のプロンプトを入力してみよう
+
+```
+a cute dog
+```
+
+```
+a business woman operating a PC
+```
+
+
+## (STEP4) いろいろ試してみよう
+
+### (4-1) Image Creatorで他の画像を作成してみる
 
 **プロンプト例**
 
@@ -176,7 +213,7 @@ FAKEと書かれたWebサイトをPCで閲覧して驚く女性
 アイディアをひらめいたビジネスマン
 ```
 
-### (3-2) PixAI.Artで他のポーズ画像で画像を生成してみる
+### (4-2) PixAI.Artで他のポーズ画像で画像を生成してみる
 
 **ポーズ(2)**
 
