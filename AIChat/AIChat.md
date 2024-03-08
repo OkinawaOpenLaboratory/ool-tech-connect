@@ -297,11 +297,50 @@ GXとは何ですか
 
 他にもgaiyo.pdfに書かれた内容について質問すれば対応した内容を回答してくれる
 
-## (STEP4) いろいろ試してみよう
+## (STEP4-1) AI専用チップ「groq」を用いた高速AIチャットを体験しよう
+
+- [groq](https://groq.com/)を右クリックして「新しいウィンドウで開く」
+- 「Enter prompt here」の部分に下記の文を入力しよう
+
+```
+生成AIについて日本語で教えてください
+```
+
+## (STEP5-1) モバイル版ChatGPTで音声を使った会話をしてみよう
+
+### モバイル版ChatGPTのインストールとアプリの起動
+
+- Androidの場合 : Playストアをクリックして上部の検索窓で「chatgpt」と入力
+  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「インストール」
+  - 「開く」になったらクリックしてアプリを起動
+- iPhoneの場合 : App Storeをクリックして上部の検索窓で「chatgpt」と入力
+  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「入手」
+  - 「開く」になったらクリックしてアプリを起動
+
+### モバイル版ChatGPTへのログインして会話をしてみよう
+
+- 「Log in」画面になるので「Continue with Google」をクリック
+- アカウントを選択してログイン (メールアドレスとパスワード入力が必要になる場合もあります)
+- 「Welcome to ChatGPT」画面になるので「Continue」
+- ヘッドホンマークをクリック
+- 「Introducing voice conversations」画面になるので「Continue」
+- 「Choose a voice」画面になるので音声を「Sky(女性)、Breeze(女性)、Ember(男性)、Juniper(女性)、Cove(男性)」から選択して「Confirm」
+- 「音声の録音をChatGPTに許可しますか」と聞かれるので「アプリの使用時のみ」を選択 (Android版の場合)
+- 「通知の送信をChatGPTに許可しますか」と聞かれるので「許可」を選択 (Android版の場合)
+- 音声で会話しましょう
+
+話す内容が思いつかないなら以下の例を試してみよう
+
+```
+今から英文を話すので間違っていたら日本語で指摘してください。
+I enjoyed to play soccer.
+```
+
+## (STEP6) いろいろ試してみよう
 
 以下の項目から興味があるものを試してみましょう
 
-### (4-1) ChatGPTに相談してみよう
+### (6-1) ChatGPTに相談してみよう
 
 相談のサンプルプロンプト
 
@@ -313,7 +352,7 @@ GXとは何ですか
 夏バテ気味でスタミナがつく昼食を食べたいです。外食で1000円くらいの予算だとするとおすすめは何になりますか？
 ```
 
-### (4-2) ChatGPTで物語を作成してみよう
+### (6-2) ChatGPTで物語を作成してみよう
 
 物語作成のサンプルプロンプト
 
@@ -325,7 +364,7 @@ GXとは何ですか
 カレーの作り方を時代小説風に教えて
 ```
 
-### (4-3) ChatGPTで比較・分析をしてみよう
+### (6-3) ChatGPTで比較・分析をしてみよう
 
 最新情報が不要な事項について比較・分析をしてみましょう
 
@@ -335,7 +374,7 @@ GXとは何ですか
 きのこの山とたけのこの里の比較を表形式で作成して
 ```
 
-### (4-4) ChatGPTで翻訳・要約してみよう
+### (6-4) ChatGPTで翻訳・要約してみよう
 
 - [CNN news](https://edition.cnn.com/)にアクセスして英文記事を開く
 - 下記のプロンプトの`###`の下に英文記事の内容をコピペしてEnter
@@ -350,7 +389,7 @@ GXとは何ですか
 ※ 改行は「Shift+Enter」で入力します。
 
 
-### (4-5) ChatGPTで○×ゲームをプログラミングしよう
+### (6-5) ChatGPTで○×ゲームをプログラミングしよう
 
 #### Javascriptコードの実行環境Replitを立ち上げよう
 
@@ -397,7 +436,7 @@ GXとは何ですか
 - ○が3つ並んでも勝利判定されない → `○が3つ並んでも勝利になりません。修正してください`
 - 相手の手番をコンピューターに打たせたい → `相手の手番をコンピューターが打つように修正して`
 
-### (4-6) Microsoft CopilotでURLを指定して翻訳・要約をしてもらう
+### (6-6) Microsoft CopilotでURLを指定して翻訳・要約をしてもらう
 
 **英語のwikipedia記事を日本語にして要約**
 
@@ -418,7 +457,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 このサイトを日本語で要約して。
 ```
 
-### (4-7) Microsoft Copilotに観光案内してもらう
+### (6-7) Microsoft Copilotに観光案内してもらう
 
 サンプルプロンプト
 
@@ -430,7 +469,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 沖縄で那覇市から日帰り観光できるスポットを5つ挙げて、所要時間・料金などを比較した表形式にしてください
 ```
 
-### (4-8) Microsoft CopilotにWebページ用コードを作成してもらおう
+### (6-8) Microsoft CopilotにWebページ用コードを作成してもらおう
 
 #### Webページ画像をダウンロード
 
@@ -498,32 +537,3 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 変更部分だけでなくinedex.html全体を表示してください
 ```
 
-### (4-9) モバイル版ChatGPTで音声を使った会話をしてみよう
-
-#### モバイル版ChatGPTのインストールとアプリの起動
-
-- Androidの場合 : Playストアをクリックして上部の検索窓で「chatgpt」と入力
-  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「インストール」
-  - 「開く」になったらクリックしてアプリを起動
-- iPhoneの場合 : App Storeをクリックして上部の検索窓で「chatgpt」と入力
-  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「入手」
-  - 「開く」になったらクリックしてアプリを起動
-
-#### モバイル版ChatGPTへのログインして会話をしてみよう
-
-- 「Log in」画面になるので「Continue with Google」をクリック
-- アカウントを選択してログイン (メールアドレスとパスワード入力が必要になる場合もあります)
-- 「Welcome to ChatGPT」画面になるので「Continue」
-- ヘッドホンマークをクリック
-- 「Introducing voice conversations」画面になるので「Continue」
-- 「Choose a voice」画面になるので音声を「Sky(女性)、Breeze(女性)、Ember(男性)、Juniper(女性)、Cove(男性)」から選択して「Confirm」
-- 「音声の録音をChatGPTに許可しますか」と聞かれるので「アプリの使用時のみ」を選択 (Android版の場合)
-- 「通知の送信をChatGPTに許可しますか」と聞かれるので「許可」を選択 (Android版の場合)
-- 音声で会話しましょう
-
-話す内容が思いつかないなら以下の例を試してみよう
-
-```
-今から英文を話すので間違っていたら日本語で指摘してください。
-I enjoyed to play soccer.
-```
