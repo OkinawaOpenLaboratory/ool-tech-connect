@@ -3,6 +3,7 @@
 ## AIチャット
 
 - [Google Gemini](https://gemini.google.com/)
+- [Anthropic Claude3](https://claude.ai/)
 
 ## 画像生成AI
 
@@ -96,6 +97,13 @@
 - [Optimus](https://ja.wikipedia.org/wiki/Tesla_Bot)
 - [Spot](https://www.theverge.com/2023/10/26/23933213/boston-dynamics-robot-dog-spot-top-hat)
 - [Eureka](https://www.watch.impress.co.jp/docs/news/1541369.html)
+
+## 生成AIランキングサイト
+
+- AIチャット : [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- 画像生成AI : [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)
+- 画像分析AI : [WildVision Arena](https://huggingface.co/spaces/WildVision/vision-arena)
+- テキスト音声変換 : [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
 
 ## 生成AIと著作権
 
