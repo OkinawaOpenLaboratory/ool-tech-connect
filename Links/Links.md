@@ -44,6 +44,7 @@
 
 - [Gen-2](https://research.runwayml.com/gen2)
 - [Kaiber](https://kaiber.ai/)
+- [Pika](https://pika.art/)
 - [Sora](https://openai.com/sora)
 - [Vrew](https://vrew.voyagerx.com/ja/)
 - [fliki](https://fliki.ai/)
