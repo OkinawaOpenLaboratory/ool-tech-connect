@@ -4,6 +4,7 @@
 
 - [Google Gemini](https://gemini.google.com/)
 - [Anthropic Claude3](https://claude.ai/)
+- [Perplexity](https://perplexity.ai/)
 
 ## 画像生成AI
 
