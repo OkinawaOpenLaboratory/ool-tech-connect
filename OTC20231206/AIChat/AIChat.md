@@ -203,17 +203,16 @@ No	地方公共団体コード	地方公共団体名	内容
 未検討と記載なしは「要望なし」というカテゴリにまとめてください
 ```
 
-## (STEP2-0) Bing Chatにログイン
+## (STEP2-0) Microsoft Copilotにログイン
 
-- [Bing](https://www.bing.com)を右クリックして「新しいウィンドウで開く」
+- [Microsoft Copilot](https://copilot.microsoft.com/)を右クリックして「新しいウィンドウで開く」
 - 右上のログインをクリック
 - サインイン画面になるのでMicrosoftアカウントでログイン
-- 上部の「チャット」をクリック
 - 会話のスタイル(「よりバランスよく」等)を選択して利用開始
 
 ※ Microsoftアカウント登録をしていない方→ [Microsoftアカウント作成](../Preparation/MSAccount.md)
 
-## (STEP2-1) Bing Chatに画像を入力して内容を質問する
+## (STEP2-1) Microsoft Copilotに画像を入力して内容を質問する
 
 ### 質問するための画像をダウンロード
 
@@ -221,9 +220,9 @@ No	地方公共団体コード	地方公共団体名	内容
 
 - 上のケーブル画像を右クリックして「名前を付けて画像を保存」を選択してダウンロードしておく
 
-### Bing Chatに画像をアップロード
+### Microsoft Copilotに画像をアップロード
 
-- 下記のいずれかの方法でBing Chatへケーブル画像をアップロードする
+- 下記のいずれかの方法でMicrosoft Copilotへケーブル画像をアップロードする
   - プロンプト入力欄へ画像をドラッグ＆ドロップ
   - プロンプト入力欄のカメラアイコンをクリックして「このデバイスからアップロード」を選択し、ケーブル画像をアップロード
 
@@ -235,7 +234,7 @@ No	地方公共団体コード	地方公共団体名	内容
 この画像に写っているのは何？
 ```
 
-**Bing Chatの基本的な使い方**
+**Microsoft Copilotの基本的な使い方**
 
 - 回答の入力
   - `何でも聞いてください`と表示されている部分にプロンプトを入力する
@@ -245,9 +244,9 @@ No	地方公共団体コード	地方公共団体名	内容
   - `■応答を停止して`という表示が右下にある間は回答の出力中
   - `■応答を停止して`が表示されなくなり、追加の質問候補が表示される状態になったら、回答の出力は終了している
 - 会話のリセット
-  - やりとりした内容をリセットして新しい会話を始めたい場合は、プロンプト欄の左にあるほうきアイコン`新しいトピック`をクリック
+  - やりとりした内容をリセットして新しい会話を始めたい場合は、プロンプト欄の左にある吹き出しアイコン`新しいトピック`をクリック
 - 以前の会話内容
-  - 会話を始めると左側のメニューに吹き出しアイコンとプロンプト内容からつけられたタイトルが表示される
+  - 会話を始めると右側のメニューにプロンプト内容からつけられたタイトルが表示される
   - ペンアイコンでタイトル名を変更できる
   - ゴミ箱アイコンで会話内容を削除できる
   - 新しいトピックで別の会話を始めた場合もこのメニューをクリックすることで以前の会話の続きからチャットすることができる
@@ -274,7 +273,7 @@ OOL TECH CONNECT開催中のみ有効にしてあるAPI KeyをGoogle Driveから
 
 ### Google Colabでプログラムを実行
 
-- [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/OTC20231206/AIChat/OpenAIAPI.ipynb)
+- [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/OTC20240322/AIChat/OpenAIAPI.ipynb)
 - 上記の「Colab用ノートブック」のリンクを右クリックして「新しいウィンドウで開く」
 - 左上のメニューの「ファイル」＞「ドライブにコピーを保存」をクリック
 - 新しいタブが開くので、そちらのタブへ移動
@@ -298,11 +297,51 @@ GXとは何ですか
 
 他にもgaiyo.pdfに書かれた内容について質問すれば対応した内容を回答してくれる
 
-## (STEP4) いろいろ試してみよう
+## (STEP4-1) AI専用チップ「groq」を用いた高速AIチャットを体験しよう
+
+- [groq](https://groq.com/)を右クリックして「新しいウィンドウで開く」
+- 「Login to try GroqChat」のウィンドウが開くので、「Login with Google」を選択しGoogleアカウントでログイン
+- 「Enter prompt here」の部分に下記の文を入力しよう
+
+```
+生成AIについて日本語で教えてください
+```
+
+## (STEP5-1) モバイル版ChatGPTで音声を使った会話をしてみよう
+
+### モバイル版ChatGPTのインストールとアプリの起動
+
+- Androidの場合 : Playストアをクリックして上部の検索窓で「chatgpt」と入力
+  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「インストール」
+  - 「開く」になったらクリックしてアプリを起動
+- iPhoneの場合 : App Storeをクリックして上部の検索窓で「chatgpt」と入力
+  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「入手」
+  - 「開く」になったらクリックしてアプリを起動
+
+### モバイル版ChatGPTへのログインして会話をしてみよう
+
+- 「Log in」画面になるので「Continue with Google」をクリック
+- アカウントを選択してログイン (メールアドレスとパスワード入力が必要になる場合もあります)
+- 「Welcome to ChatGPT」画面になるので「Continue」
+- ヘッドホンマークをクリック
+- 「Introducing voice conversations」画面になるので「Continue」
+- 「Choose a voice」画面になるので音声を「Sky(女性)、Breeze(女性)、Ember(男性)、Juniper(女性)、Cove(男性)」から選択して「Confirm」
+- 「音声の録音をChatGPTに許可しますか」と聞かれるので「アプリの使用時のみ」を選択 (Android版の場合)
+- 「通知の送信をChatGPTに許可しますか」と聞かれるので「許可」を選択 (Android版の場合)
+- 音声で会話しましょう
+
+話す内容が思いつかないなら以下の例を試してみよう
+
+```
+今から英文を話すので間違っていたら日本語で指摘してください。
+I enjoyed to play soccer.
+```
+
+## (STEP6) いろいろ試してみよう
 
 以下の項目から興味があるものを試してみましょう
 
-### (4-1) ChatGPTに相談してみよう
+### (6-1) ChatGPTに相談してみよう
 
 相談のサンプルプロンプト
 
@@ -314,7 +353,7 @@ GXとは何ですか
 夏バテ気味でスタミナがつく昼食を食べたいです。外食で1000円くらいの予算だとするとおすすめは何になりますか？
 ```
 
-### (4-2) ChatGPTで物語を作成してみよう
+### (6-2) ChatGPTで物語を作成してみよう
 
 物語作成のサンプルプロンプト
 
@@ -326,7 +365,7 @@ GXとは何ですか
 カレーの作り方を時代小説風に教えて
 ```
 
-### (4-3) ChatGPTで比較・分析をしてみよう
+### (6-3) ChatGPTで比較・分析をしてみよう
 
 最新情報が不要な事項について比較・分析をしてみましょう
 
@@ -336,7 +375,7 @@ GXとは何ですか
 きのこの山とたけのこの里の比較を表形式で作成して
 ```
 
-### (4-4) ChatGPTで翻訳・要約してみよう
+### (6-4) ChatGPTで翻訳・要約してみよう
 
 - [CNN news](https://edition.cnn.com/)にアクセスして英文記事を開く
 - 下記のプロンプトの`###`の下に英文記事の内容をコピペしてEnter
@@ -351,7 +390,7 @@ GXとは何ですか
 ※ 改行は「Shift+Enter」で入力します。
 
 
-### (4-5) ChatGPTで○×ゲームをプログラミングしよう
+### (6-5) ChatGPTで○×ゲームをプログラミングしよう
 
 #### Javascriptコードの実行環境Replitを立ち上げよう
 
@@ -398,7 +437,7 @@ GXとは何ですか
 - ○が3つ並んでも勝利判定されない → `○が3つ並んでも勝利になりません。修正してください`
 - 相手の手番をコンピューターに打たせたい → `相手の手番をコンピューターが打つように修正して`
 
-### (4-6) Bing ChatでURLを指定して翻訳・要約をしてもらう
+### (6-6) Microsoft CopilotでURLを指定して翻訳・要約をしてもらう
 
 **英語のwikipedia記事を日本語にして要約**
 
@@ -419,7 +458,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 このサイトを日本語で要約して。
 ```
 
-### (4-7) Bing Chatに観光案内してもらう
+### (6-7) Microsoft Copilotに観光案内してもらう
 
 サンプルプロンプト
 
@@ -431,7 +470,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 沖縄で那覇市から日帰り観光できるスポットを5つ挙げて、所要時間・料金などを比較した表形式にしてください
 ```
 
-### (4-8) Bing ChatにWebページ用コードを作成してもらおう
+### (6-8) Microsoft CopilotにWebページ用コードを作成してもらおう
 
 #### Webページ画像をダウンロード
 
@@ -439,11 +478,11 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
 - 上のWebページ画像を右クリックして「名前を付けて画像を保存」を選択してダウンロードしておく
 
-#### Bing Chatに画像をアップロード
+#### Microsoft Copilotに画像をアップロード
 
-- Bing Chatで「新しいトピック」をクリックし、新しい会話を開始
+- Microsoft Copilotで「新しいトピック」をクリックし、新しい会話を開始
 - 会話のスタイルを「より創造的に」に変更 (他の会話スタイルだとコードを生成してくれない場合が多いため)
-- 下記のいずれかの方法でBing ChatへWebページ画像をアップロードする
+- 下記のいずれかの方法でMicrosoft CopilotへWebページ画像をアップロードする
   - プロンプト入力欄へ画像をドラッグ＆ドロップ
   - プロンプト入力欄のカメラアイコンをクリックして「このデバイスからアップロード」を選択し、Webページ画像をアップロード
 
@@ -468,12 +507,12 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 - 右下にある「+Create Repl」をクリック
 - `index.html`、`script.js`、`style.css`が生成される
 
-#### Bing Chatが出力したコードをReplitへコピーしよう
+#### Microsoft Copilotが出力したコードをReplitへコピーしよう
 
-- Bing Chat画面のHTML(index.html)のコード右上のCopy codeを選択してコードをコピー
+- Microsoft Copilot画面のHTML(index.html)のコード右上のCopy codeを選択してコードをコピー
 - Replit画面の左メニューのindex.htmlをクリックして、コード部分を表示させる
   - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
-- Bing Chat画面のCSS(style.css)のコード右上のCopy codeを選択してコードをコピー
+- Microsoft Copilot画面のCSS(style.css)のコード右上のCopy codeを選択してコードをコピー
 - Replit画面の左メニューのstyle.cssをクリックして、コード部分を表示させる
   - 表示されたコードをCtrl+aですべて選択し、Ctrl+vでChatGPTのコードに上書きする
 
@@ -499,32 +538,3 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 変更部分だけでなくinedex.html全体を表示してください
 ```
 
-### (4-9) モバイル版ChatGPTで音声を使った会話をしてみよう
-
-#### モバイル版ChatGPTのインストールとアプリの起動
-
-- Androidの場合 : Playストアをクリックして上部の検索窓で「chatgpt」と入力
-  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「インストール」
-  - 「開く」になったらクリックしてアプリを起動
-- iPhoneの場合 : App Storeをクリックして上部の検索窓で「chatgpt」と入力
-  - 「ChatGPT」の下に「OpenAI」と記載されたアプリを「入手」
-  - 「開く」になったらクリックしてアプリを起動
-
-#### モバイル版ChatGPTへのログインして会話をしてみよう
-
-- 「Log in」画面になるので「Continue with Google」をクリック
-- アカウントを選択してログイン (メールアドレスとパスワード入力が必要になる場合もあります)
-- 「Welcome to ChatGPT」画面になるので「Continue」
-- ヘッドホンマークをクリック
-- 「Introducing voice conversations」画面になるので「Continue」
-- 「Choose a voice」画面になるので音声を「Sky(女性)、Breeze(女性)、Ember(男性)、Juniper(女性)、Cove(男性)」から選択して「Confirm」
-- 「音声の録音をChatGPTに許可しますか」と聞かれるので「アプリの使用時のみ」を選択 (Android版の場合)
-- 「通知の送信をChatGPTに許可しますか」と聞かれるので「許可」を選択 (Android版の場合)
-- 音声で会話しましょう
-
-話す内容が思いつかないなら以下の例を試してみよう
-
-```
-今から英文を話すので間違っていたら日本語で指摘してください。
-I enjoyed to play soccer.
-```
