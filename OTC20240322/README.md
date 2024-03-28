@@ -1,42 +1,41 @@
-# OOL TECH CONNECT
+# OOL TECH CONNECT (2024/3/22開催内容)
 
-本リポジトリでは[OOL TECH CONNECT](https://www.okinawaopenlabs.org/ooltechconnect)で使用する情報を公開しています。
+## 資料
 
-## 事前準備
+### セミナー
+
+- [AIの進化と革新：生成AIとは何か？](AIの進化と革新：生成AIとは何か？-2403.pdf)
+- [オープンデータ×生成AI](20240322_OOLTechConnect_vol6.pdf)
+
+## GitHub掲載内容
+
+### 事前準備
 
 - [Googleアカウント作成](Preparation/GoogleAccount.md)
 - [Microsoftアカウント作成](Preparation/MSAccount.md)
 - [利用するサービスへの登録](Preparation/ServiceSignUp.md)
 
-## AIチャット
+### AIチャット
 
 - [AIチャットを体験しよう](AIChat/AIChat.md)
 
-## 画像生成AI
+### 画像生成AI
 
 - [画像生成AIを体験しよう](ImageGenAI/ImageGenAI.md)
 
-## 音声認識AI
+### 音声認識AI
 
 - [音声認識AIを体験しよう](VoiceRecogAI/VoiceRecogAI.md)
 
-## 文章認識AI
+### 文章認識AI
 
 - [文章認識AIを体験しよう](TextRecogAI/TextRecogAI.md)
 
-## その他AI
+### その他AI
 
 - [その他AIを体験しよう](OtherAI/OtherAI.md)
 
-## AI関連リンク
+### AI関連リンク
 
 - [AI関連リンク](Links/Links.md)
-
-## 過去の開催
-
-- [2023/ 7/21](OTC20230721/README.md)
-- [2023/ 9/22](OTC20230922/README.md)
-- [2023/11/17](OTC20231117/README.md)
-- [2023/12/ 6](OTC20231206/README.md)
-- [2024/ 1/19](OTC20240119/README.md)
 
