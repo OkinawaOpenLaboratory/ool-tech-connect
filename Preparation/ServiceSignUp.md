@@ -16,6 +16,18 @@
 - ChatGPTという文字が表示された画面になれば登録完了
 - ブラウザの右上の×をクリックして終了
 
+## Command R+への登録
+
+- [Cohere](https://dashboard.cohere.com/)にアクセス
+- 「Log in」画面で「Continue with Google」をクリック
+- 「アカウントの選択」画面でログインに使うGoogleアカウントを選択
+- 「cohere.comにログイン」画面になるので「次へ」をクリック
+- 「Let's get to know you better」画面になるので、FIRST NAMEに名前、LAST NAMEに姓を英字で入力して「Continue」をクリック
+- 「What is your role?」画面になるので、「Please select one option.」で「Researcher(調査者)」を選択して「Continue」をクリック
+- 「What do you plan to do with Cohere?」画面になるので「Please select all options that apply.」で「Chat」を選択して「Submit」をクリック
+- 「cohere dashboard」画面になればアカウント作成完了
+- ブラウザの右上の×をクリックして終了
+
 ## Replitへの登録
 
 - [Replit](https://replit.com/)にアクセス
