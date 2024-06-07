@@ -2,9 +2,12 @@
 
 ## (STEP1) 画像認識AIを体験しよう
 
-- [YOLOv9](https://huggingface.co/spaces/Xenova/yolov9-web)を右クリックして「新しいウィンドウで開く」
+- [YOLOv10](https://huggingface.co/spaces/kadirnar/Yolov10)
+を右クリックして「新しいウィンドウで開く」
 - 下記の二つ画像をダウンロード (右クリックして名前を付けて画像を保存をクリック)
-- 「Click to upload image」をクリックしてダウンロードした画像をアップロード
+- 「ここに画像をドロップまたはクリックしてアップロード」をクリックしてダウンロードした画像をアップロード
+- 「Detect Objects」をクリックすると画像認識を実施
+- 画像認識結果をダウンロードすると認識内容をきちんと読み取れる
 
 [<img src="image1.png" width="40%">](image1.png)　image1.png
 
@@ -44,4 +47,11 @@ a brave knight
 ```
 a young waitress
 ```
+
+## (STEP4) アンケート回答しよう
+
+- 下記URLにアンケートのURLが記載されたテキストがあるのでアンケートへご回答お願いします。
+
+- OTC参加者用 Googledrive
+  - <https://drive.google.com/drive/folders/1Bbro9LBXtr4-S1VFBl9p2nhn9FoW700l>
 
