@@ -97,9 +97,9 @@
   - 上矢印アイコンが停止ボタンアイコンになっている間は回答の出力中
   - 上矢印アイコンになったら回答の出力は終了している
   - 回答出力終了後に左下の矢印が回転しているアイコンをクリックすると回答を再生成する。再生成後の回答には<2/2のような番号がつき<の部分をクリックすることで以前の回答内容を閲覧できる
-  - Continue generatingという表示が右下に出力された場合は、一度に回答できる文字数に達したが回答内容がまだ残っていることを示しているのでクリックして回答の出力を続行させる
+  - 回答生成が途中なのに回答出力が終わってしまった(停止ボタンアイコンから上矢印アイコンに変化した)ときには、「Continue generating」アイコンが表示されている場合にはそれをクリックし、表示されていない場合には「つづけて」や「continue」と入力すると、回答出力を続けさせることができる
 - 会話のリセット
-  - やりとりした内容をリセットして新しい会話を始めたい場合は、左上の`New chat`をクリック
+  - やりとりした内容をリセットして新しい会話を始めたい場合は、左上の「新しいチャット」アイコン(紙の上にペンがあるアイコン)をクリック
 - 以前の会話内容
   - 会話を始めると左側のメニューにチャット履歴が表示される
   - 新しいチャットで別の会話を始めた場合でもチャット履歴をクリックすることで以前の会話の続きからチャットすることができる
@@ -109,7 +109,7 @@
 
 ### Javascriptコードの実行環境Replitを立ち上げよう
 
-- [Replit](https://replit.com/)にアクセス
+- [Replit](https://replit.com/)を右クリックして「新しいウィンドウで開く」
 - 右上の「Log in」をクリック
   - Replitに登録をしていない方→ [サービス登録](../Preparation/ServiceSignUp.md)
 - 「+Create Repl」をクリック
@@ -147,7 +147,7 @@
 
 ### Replitの動作がおかしいときには、JSFiddleでコードを実行させてみよう
 
-- [JSFiddle](https://jsfiddle.net/)にアクセス
+- [JSFiddle](https://jsfiddle.net/)を右クリックして「新しいウィンドウで開く」
 - 「HTML▼」の下のにindex.htmlの内容をコピペ
 - 「CSS▼」の下のにstyle.cssの内容をコピペ
 - 「JavaScript+No-Library(pure JS)▼」の下のにscript.jsの内容をコピペ
@@ -320,8 +320,8 @@ No	地方公共団体コード	地方公共団体名	内容
 ## (STEP4-1) AI専用チップ「groq」を用いた高速AIチャットを体験しよう
 
 - [groq](https://groq.com/)を右クリックして「新しいウィンドウで開く」
-- 「Login to try GroqChat」のウィンドウが開くので、「Login with Google」を選択しGoogleアカウントでログイン
-- 「Enter prompt here」の部分に下記の文を入力しよう
+- 左下の「Sign in to Groq」をクリックすると、「Login to continue chatting」のウィンドウが開くので、「Login with Google」を選択しGoogleアカウントでログイン
+- 「Try it」の部分に下記の文を入力しよう
 
 ```
 生成AIについて日本語で教えてください
@@ -363,7 +363,7 @@ I enjoyed to play soccer.
 
 ### (6-1) ChatGPTに相談してみよう
 
-相談のサンプルプロンプト
+[ChatGPT](https://openai.com/blog/chatgpt)用の相談のサンプルプロンプト
 
 ```
 冷蔵庫の中にじゃがいも、卵、豆腐が残っています。いい晩御飯のメニューはありますか？
@@ -397,7 +397,8 @@ I enjoyed to play soccer.
 
 ### (6-4) ChatGPTで翻訳・要約してみよう
 
-- [CNN news](https://edition.cnn.com/)にアクセスして英文記事を開く
+- [CNN news](https://edition.cnn.com/)を右クリックして「新しいウィンドウで開く」
+- 翻訳したい英文記事を開く
 - 下記のプロンプトの`###`の下に英文記事の内容をコピペしてEnter
 
 
@@ -457,9 +458,12 @@ I enjoyed to play soccer.
 - ○が3つ並んでも勝利判定されない → `○が3つ並んでも勝利になりません。修正してください`
 - 相手の手番をコンピューターに打たせたい → `相手の手番をコンピューターが打つように修正して`
 
-### (6-6) Microsoft CopilotでURLを指定して翻訳・要約をしてもらう
+### (6-6) Command R+にURLを指定して翻訳・要約をしてもらう
 
 **英語のwikipedia記事を日本語にして要約**
+
+[Cohere](https://dashboard.cohere.com/)にアクセスして、
+右上の「●GROUNDING」ボタンをクリックし、「Web Search」にチェックを入れておく
 
 サンプルプロンプト
 
@@ -478,7 +482,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 このサイトを日本語で要約して。
 ```
 
-### (6-8) Microsoft CopilotにWebページ用コードを作成してもらおう
+### (6-7) Microsoft CopilotにWebページ用コードを作成してもらおう
 
 #### Webページ画像をダウンロード
 
@@ -488,7 +492,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
 #### Microsoft Copilotに画像をアップロード
 
-- Microsoft Copilotで「新しいトピック」をクリックし、新しい会話を開始
+- [Microsoft Copilot](https://copilot.microsoft.com/)で「新しいトピック」をクリックし、新しい会話を開始
 - 会話のスタイルを「より創造的に」に変更 (他の会話スタイルだとコードを生成してくれない場合が多いため)
 - 下記のいずれかの方法でMicrosoft CopilotへWebページ画像をアップロードする
   - プロンプト入力欄へ画像をドラッグ＆ドロップ
