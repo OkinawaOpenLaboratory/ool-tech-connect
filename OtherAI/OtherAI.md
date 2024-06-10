@@ -8,6 +8,7 @@
 - 「ここに画像をドロップまたはクリックしてアップロード」をクリックしてダウンロードした画像をアップロード
 - 「Detect Objects」をクリックすると画像認識を実施
 - 画像認識結果をダウンロードすると認識内容をきちんと読み取れる
+- 別の画像を認識させる場合はアップロードした画像の右上の「×(Remove Image)」アイコンをクリックして画像を削除してから画像をアップロードする
 
 [<img src="image1.png" width="40%">](image1.png)　image1.png
 
@@ -26,7 +27,7 @@ a car driving on a snow road
 ## (STEP3) 3Dオブジェクト生成AIを体験しよう
 
 - [Meshy](https://www.meshy.ai)を右クリックして「新しいウィンドウで開く」
-- 「Try Meshy for Free」をクリック
+- 「Get Started - It's Free >」をクリック
 - 「Welcome to Meshy」ウィンドウが開くので「Continue with Google」を選択しGoogleアカウントでログイン
 - 左メニューの「Text to 3D」を選択
 - 「Prompt」欄に下記プロンプトを入力して「Generate」ボタンをクリック
