@@ -340,12 +340,12 @@ No	地方公共団体コード	地方公共団体名	内容
 
 ### モバイル版ChatGPTへのログインして会話をしてみよう
 
-- 「Log in」画面になるので「Continue with Google」をクリック
+- 「ログイン/Log in」画面になるので「Googleで続ける/Continue with Google」をクリック
 - アカウントを選択してログイン (メールアドレスとパスワード入力が必要になる場合もあります)
-- 「Welcome to ChatGPT」画面になるので「Continue」
+- 「ChatGPTへようこそ/Welcome to ChatGPT」画面になるので「続ける/Continue」
 - ヘッドホンマークをクリック
-- 「Introducing voice conversations」画面になるので「Continue」
-- 「Choose a voice」画面になるので音声を「Sky(女性)、Breeze(女性)、Ember(男性)、Juniper(女性)、Cove(男性)」から選択して「Confirm」
+- 「音声でチャット/Introducing voice conversations」画面になるので「音声を選択してください/Continue」
+- 「音声を選択してください/Choose a voice」画面になるので音声を「そよ風/Breeze(女性)、残り火/Ember(男性)、ビャクシン/Juniper(女性)、入り江/Cove(男性)」から選択して「確認する/Confirm」
 - 「音声の録音をChatGPTに許可しますか」と聞かれるので「アプリの使用時のみ」を選択 (Android版の場合)
 - 「通知の送信をChatGPTに許可しますか」と聞かれるので「許可」を選択 (Android版の場合)
 - 音声で会話しましょう
