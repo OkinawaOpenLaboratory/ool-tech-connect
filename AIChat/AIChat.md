@@ -8,7 +8,7 @@
 
 ## (STEP1-1) Command R+に観光案内してもらう
 
-- 右上の「●GROUNDING」ボタンをクリックし、「Web Search」にチェックを入れる
+- 右上の「歯車アイコン」をクリックし、「Web Search」にチェックを入れる
 - 下記の文をコピーしてCommand R+に入力し、観光スポットを教えてもらおう
 
 ```
@@ -18,7 +18,7 @@
 **Command R+の基本的な使い方**
 
 - 前提条件の選択
-  - 「●GROUNDING」ボタンをクリックして前提条件を選択する
+  - 「歯車アイコン」をクリックして前提条件を選択する
   - Webからの情報を基に回答する「Web Search」を選択するか、ファイルをアップロードしてそのファイルを情報源として選択することができる
   - アップロードしたファイルは、ファイル名にマウスを持っていくと現れる×アイコンをクリックすると削除できる
   - どちらも選択しない場合はCommand R+が学習した内容から回答を生成する
@@ -49,7 +49,7 @@
 
 ### Command R+にPDFの内容を回答してもらおう
 
-- 右上の「●GROUNDING」ボタンをクリックし、FILESの下の「Drag and drop or browse files to use for grounding」と書かれたエリアに`heatillness_manual_full.pdf`をドラッグアンドドロップ。(クリックしてファイルを選択してアップロードしてもよい)
+- 右上の「歯車アイコン」をクリックし、FILESの下の「Drag and drop or browse files」と書かれたエリアに`heatillness_manual_full.pdf`をドラッグアンドドロップ。(クリックしてファイルを選択してアップロードしてもよい)
 - アップロードが完了すると`heatillness_manual_full.pdf`のチェックができるようになるのでチェックを入れる
 - 下記の文をコピーしてCommand R+に入力し、観光スポットを教えてもらおう
 
@@ -477,7 +477,7 @@ I enjoyed to play soccer.
 **英語のwikipedia記事を日本語にして要約**
 
 [Cohere](https://dashboard.cohere.com/)にアクセスして、
-右上の「●GROUNDING」ボタンをクリックし、「Web Search」にチェックを入れておく
+右上の「歯車アイコン」をクリックし、「Web Search」にチェックを入れておく
 
 サンプルプロンプト
 
