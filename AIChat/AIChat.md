@@ -416,8 +416,16 @@ I enjoyed to play soccer.
 
 ※ 改行は「Shift+Enter」で入力します。
 
+### (6-5) ChatGPTでキャッチコピーを作成しよう
 
-### (6-5) ChatGPTで○×ゲームをプログラミングしよう
+- 下記の文をコピーしてChatGPTに入力し、キャッチコピーを作成してみよう
+
+```
+沖縄という都会から離れた場所で、最新技術に触れられるという点を売りにしたOOL TECH CONNECTというイベントを開催します。
+そのキャッチコピーを5つ作成してください
+```
+
+### (6-6) ChatGPTで○×ゲームをプログラミングしよう
 
 #### Javascriptコードの実行環境Replitを立ち上げよう
 
@@ -464,7 +472,7 @@ I enjoyed to play soccer.
 - ○が3つ並んでも勝利判定されない → `○が3つ並んでも勝利になりません。修正してください`
 - 相手の手番をコンピューターに打たせたい → `相手の手番をコンピューターが打つように修正して`
 
-### (6-6) Command R+にURLを指定して翻訳・要約をしてもらう
+### (6-7) Command R+にURLを指定して翻訳・要約をしてもらう
 
 **英語のwikipedia記事を日本語にして要約**
 
@@ -488,7 +496,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 このサイトを日本語で要約して。
 ```
 
-### (6-7) Microsoft CopilotにWebページ用コードを作成してもらおう
+### (6-8) Microsoft CopilotにWebページ用コードを作成してもらおう
 
 #### Webページ画像をダウンロード
 
