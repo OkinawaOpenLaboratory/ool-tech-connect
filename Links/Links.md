@@ -15,6 +15,7 @@
 - [Canva](https://www.canva.com/ja_jp/)
 - [Leonardo.Ai](https://leonardo.ai/)
 - [Seaart](https://www.seaart.ai/)
+- [Playground](https://playground.com/)
 
 ### モデル・LoRA公開サイト
 
@@ -47,6 +48,8 @@
 - [Kaiber](https://kaiber.ai/)
 - [Pika](https://pika.art/)
 - [Sora](https://openai.com/sora)
+- [KLING](https://kling.kuaishou.com/en)
+- [Dream Machine](https://lumalabs.ai/dream-machine)
 - [Vrew](https://vrew.voyagerx.com/ja/)
 - [fliki](https://fliki.ai/)
 
@@ -56,10 +59,13 @@
 - [Mubert](https://mubert.com/)
 - [Suno AI](https://www.suno.ai/)
 - [Stable Audio](https://www.stableaudio.com/)
+- [Udio](https://www.udio.com/)
 
 ## 音声生成AI
 
 - [CoeFont](https://coefont.cloud/)
+- [Voice Engine](https://voicengine.ai/)
+- [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/)
 - [RVC(Retrieval-based-Voice-Conversion)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 ## プログラミング補助AI
@@ -72,20 +78,13 @@
 - [DreamFusion](https://dreamfusion3d.github.io/)
 - [Point-E](https://github.com/openai/point-e)
 - [Wonder3D](https://github.com/xxlong0/Wonder3D/)
+- [Meshy](https://www.meshy.ai/)
+- [Genie](https://lumalabs.ai/genie)
+- [Tripo AI](https://www.tripo3d.ai)
 
 ## 3Dモーション生成
 
 - [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
-
-## マルチモーダルAI
-
-- [BLIP / BLIP-2 (Salesforce)](https://huggingface.co/Salesforce/blip2-flan-t5-xxl)
-- [Git (Microsoft)](https://huggingface.co/microsoft/git-base)
-- [LLaVA-1.5 (ウィスコンシン大学&Microsoft)](https://llava-vl.github.io/)
-- [Ferret (Apple)](https://arxiv.org/abs/2310.07704v1)
-- [MiniGPT-v2 (King Abdullah大学&Meta)](https://minigpt-v2.github.io/)
-- [PaLI-3 (Google)](https://huggingface.co/papers/2310.09199)
-- [ImageBind (Meta)](https://ai.meta.com/blog/imagebind-six-modalities-binding-ai/)
 
 ## AI搭載ガジェット
 
@@ -95,10 +94,10 @@
 
 ## ロボット技術
 
-- [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
-- [Optimus](https://ja.wikipedia.org/wiki/Tesla_Bot)
-- [Spot](https://www.theverge.com/2023/10/26/23933213/boston-dynamics-robot-dog-spot-top-hat)
-- [Eureka](https://www.watch.impress.co.jp/docs/news/1541369.html)
+- [Sanctuary AI / Phoenix](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-the-next-generation-of-ai-robotics/)
+- [Figure AI / Figure 01](https://www.figure.ai/)
+- [1X Technologies / EVE](https://www.1x.tech/androids/eve)
+- [Robotic Transformer 2 (RT-2)](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)
 
 ## 生成AIランキングサイト
 
@@ -106,6 +105,7 @@
 - 画像生成AI : [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)
 - 画像分析AI : [WildVision Arena](https://huggingface.co/spaces/WildVision/vision-arena)
 - テキスト音声変換 : [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
+- 動画解析 : [Video-MME](https://video-mme.github.io/home_page.html#leaderboard)
 
 ## 生成AIと著作権
 
