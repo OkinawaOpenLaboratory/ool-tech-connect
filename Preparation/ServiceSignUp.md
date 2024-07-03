@@ -28,13 +28,37 @@
 - 「cohere dashboard」画面になればアカウント作成完了
 - ブラウザの右上の×をクリックして終了
 
-## Replitへの登録
+## Claudeへの登録
 
-- [Replit](https://replit.com/)にアクセス
-- 右上の「Sign up」をクリック
-- 「Continue with Google」を選択して、Googleアカウントでログイン
-- アンケート画面になる (「Skip」してOK)
-- ホーム画面になってチュートリアルウィンドウが開く (右上の×ボタンを押して閉じてOK)
+- [Claude](https://claude.ai/)にアクセス
+- ログイン画面で「Continue with Google」をクリック
+- 「アカウントの選択」画面でログインに使うGoogleアカウントを選択
+- 「Anthropicにログイン」画面になるので「次へ」をクリック
+- 「First, let's create your account」画面になるので、「Verify a mobile phone number」の下のアメリカ国旗をクリックして「Japan」を選択後、その右の入力欄に携帯電話番号を入力(0X0XXXXXXXXと先頭0で入力してOK)
+- 「I confirm that I am at least 18 years of age」にチェックを入れる
+- 「Send Verification Code」をクリック
+- 「Please enter the code sent via text to: XXX-XXXX-XXXX」の下に送られてきたコードを入力して「Verify & Create Account」をクリック
+- 「Hello, I'm Claude.」画面になるので、「Enter your full name」と書かれた入力欄にローマ字で氏名を入力して「Send↑」をクリック
+- 「A few things to know before we start working together:」と表示され、利用規約が表示されるので「Acknowledge & Continue」をクリック
+  - [利用規約概要]※内容は変更されているかもしれません
+  - Claudeを利用した暴力的、虐待的、欺瞞的なコンテンツの作成禁止
+  - 自動虐待コンテンツ検知システムがフラグを立てたチャット内容の確認を定期的に実施します
+- 「You should keep a few things in mind:」と表示され注意事項が表示されるので「Sounds Good, Let's Begin→」をクリック
+  - [注意事項概要]※内容は変更されているかもしれません
+  - Claudeは不正確な情報・偏見のあるコンテンツを生成する可能性があります
+  - Claudeは法的、金融、医療などを助言する目的で作成されていないため、生成されたコンテンツだけを信頼するのは止めてください
+  - Anthropic社は使用限度、機能、ポリシーを変更する可能性があります
+- 「Welcome, (入力した名前)」画面になればアカウント作成完了
+- ブラウザの右上の×をクリックして終了
+
+## Difyへの登録
+
+- [Dify](https://dify.ai/jp)にアクセス
+- 「始める」をクリック
+- 「はじめましょう！」画面で「Googleで続行」をクリック
+- 「アカウントの選択」画面でログインに使うGoogleアカウントを選択
+- 「LangGeniusにログイン」画面になるので「次へ」をクリック
+- 右上に「Dify」と表示された画面になればアカウント作成完了
 - ブラウザの右上の×をクリックして終了
 
 ## PixAI.Artへの登録
