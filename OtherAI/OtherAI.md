@@ -10,6 +10,12 @@
 - 画像認識結果をダウンロードすると認識内容をきちんと読み取れる
 - 別の画像を認識させる場合はアップロードした画像の右上の「×(Remove Image)」アイコンをクリックして画像を削除してから画像をアップロードする
 
+**YOLOv10が動作しない場合はYOLOv9を使ってください**
+
+- [YOLOv9](https://huggingface.co/spaces/Xenova/yolov9-web)を右クリックして「新しいウィンドウで開く」
+- 下記の二つ画像をダウンロード (右クリックして名前を付けて画像を保存をクリック)
+- 「Click to upload image」をクリックしてダウンロードした画像をアップロード
+
 [<img src="image1.png" width="40%">](image1.png)　image1.png
 
 [<img src="image2.png" width="40%">](image2.png)　image2.png
