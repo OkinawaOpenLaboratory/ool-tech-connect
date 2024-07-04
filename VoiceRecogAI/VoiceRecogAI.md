@@ -6,6 +6,12 @@
 - 「G-03：説明ナレーション」の右の「…」アイコンをクリックして「ダウンロード」を選択
 - `g_03.mp3`がダウンロードされる
 
+※ ダウンロードメニューがでないブラウザを使用している方は以下のGoogle Driveに置かれている`g_03.mp3`をダウンロードしてください
+
+- OTC参加者用 Googledrive
+  - <https://drive.google.com/drive/folders/1Bbro9LBXtr4-S1VFBl9p2nhn9FoW700l>
+
+
 ## (STEP1-1) Whisper JAXで音声ファイルの文字起こしをしてみよう
 
 ### Whisper JAX
