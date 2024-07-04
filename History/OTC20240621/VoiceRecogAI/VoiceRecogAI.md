@@ -47,7 +47,7 @@ WhisperをJAXを用いて高速化したもの。本家の70倍以上のスピ�
 #### Goolge Colab用OpenAI Whisper実行ノートブック
 
 - GitHubリポジトリ → [GitHub : openai / whisper](https://github.com/openai/whisper)
-- Colab用ノートブック → [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/OTC20240621/VoiceRecogAI/whisper_large.ipynb)
+- Colab用ノートブック → [Colab用ノートブック ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OkinawaOpenLaboratory/ool-tech-connect/blob/main/History/OTC20240621/VoiceRecogAI/whisper_large.ipynb)
 
 　※ このColab用ノートブックは下記サイトに掲載されているノートブックのmodelを"base"から"large"に変更したものです。
 
