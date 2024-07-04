@@ -34,5 +34,5 @@
 
 ## 過去の開催
 
-- [過去の開催内容](History/history.md)
+- [過去の開催内容](History/History.md)
 
