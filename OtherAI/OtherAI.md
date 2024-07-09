@@ -89,7 +89,38 @@ a brave knight
 a young waitress
 ```
 
-## (STEP4) アンケート回答しよう
+## (STEP4) AIアバターを生成しよう
+
+### 人物画像の入手
+
+- [致知出版社「文明開化を説いた福沢諭吉が追い求めた真の〝目的〟」](https://www.chichi.co.jp/web/20210203_yukichi_120th_watanabe_toshio/
+)を右クリックして「リンクを新しいウィンドウで開く」
+- 福沢諭吉の画像を右クリックして「名前をつけて画像を保存」
+
+### Hedraにログインしてアカウントを作成
+
+- [Hedra](https://www.hedra.com/)を右クリックして「リンクを新しいウィンドウで開く」
+- 「Try beta」をクリック後、「Sign in to use」をクリック
+- 「Use Google Login」をクリックしてGoogleアカウントでログイン
+- 「Create your Hedra account」画面になる
+  - 「I accept the Terms of Service and Privacy Policy, as maybe modified from time to time.(随時変更される利用規約とプライバシー ポリシーに同意します。)」にチェックを入れる
+  - 「I certify that I am not a resident of the following US States: IL, TX, WA(私は、米国の次の州の居住者ではないことを証明します: イリノイ州、テキサス州、ワシントン州) Residents of these states are currently not eligible to use Hedra products and services.(これらの州の居住者は現在、Hedra の製品とサービスを使用する資格がありません。)」にチェックを入れる
+  - 「I certify that I am over the age of 18(私は18歳以上であることを証明します)」にチェックを入れる
+  - 「I agree to receive emails, including marketing and promotional emails, from or on behalf of Hedra, Inc.(Hedraからマーケティングやプロモーション内容を含んだ電子メールを受信することに同意します)」はチェックなしのまま
+- 「Create Account」をクリック
+
+### AIアバター作成
+
+- 「Character」エリアの「Upload」をクリックして保存した福沢諭吉画像をアップロード(あるいは「Drag and drop an image here」にドラッグ&ドロップ)
+- 「Audio」エリアの「You can write the beginning of a dialogue, or you can try typing a single word.」とかかれた欄に下記文章をコピペ
+
+```
+天は人の上に人を作らず
+```
+
+- 「Generate Video」をクリック
+
+## (STEP5) アンケート回答しよう
 
 - 下記URLにアンケートのURLが記載されたテキストがあるのでアンケートへご回答お願いします。
 
