@@ -118,6 +118,7 @@ a young waitress
 天は人の上に人を作らず
 ```
 
+- 「Audio」エリア下部にある「Select a voice」のドロップダウンメニューで「George」を選択
 - 「Generate Video」をクリック
 
 ## (STEP5) アンケート回答しよう
