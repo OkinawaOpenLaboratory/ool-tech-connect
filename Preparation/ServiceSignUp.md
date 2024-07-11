@@ -38,6 +38,7 @@
 - 「I confirm that I am at least 18 years of age」にチェックを入れる
 - 「Send Verification Code」をクリック
 - 「Please enter the code sent via text to: XXX-XXXX-XXXX」の下に送られてきたコードを入力して「Verify & Create Account」をクリック
+- 「How are you planning to use Claude?」画面になるので、「For Personal use」をクリック
 - 「Hello, I'm Claude.」画面になるので、「Enter your full name」と書かれた入力欄にローマ字で氏名を入力して「Send↑」をクリック
 - 「A few things to know before we start working together:」と表示され、利用規約が表示されるので「Acknowledge & Continue」をクリック
   - [利用規約概要]※内容は変更されているかもしれません
