@@ -7,6 +7,7 @@
 - [Googleアカウント作成](Preparation/GoogleAccount.md)
 - [Microsoftアカウント作成](Preparation/MSAccount.md)
 - [利用するサービスへの登録](Preparation/ServiceSignUp.md)
+- [モバイル版ChatGPTのインストール](Preparation/AppInstallation.md)
 
 ## AIチャット
 
