@@ -12,6 +12,7 @@
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Midjourney](https://www.midjourney.com/home/)
 - [Adobe Firefly](https://www.adobe.com/jp/sensei/generative-ai/firefly.html)
+- [Google ImageFX](https://aitestkitchen.withgoogle.com/tools/image-fx)
 - [Canva](https://www.canva.com/ja_jp/)
 - [Leonardo.Ai](https://leonardo.ai/)
 - [Seaart](https://www.seaart.ai/)
