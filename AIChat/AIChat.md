@@ -216,9 +216,10 @@ No	地方公共団体コード	地方公共団体名	内容
 
 - [Claude](https://claude.ai/)を右クリックして「新しいウィンドウで開く」
 - Googleアカウントでログイン
-- Artifacts機能の有効化
-  - 左下のユーザアイコンをクリックして「Feature Preview」をクリック
-  - Artifactsを「On」にして右上の×をクリック
+- Artifacts機能が有効かを確認
+  - 左下のユーザアイコンをクリックして「Settings」をクリック
+  - 「Profile」画面の「Enable artifacts」が有効(つまみが右側)になっていることを確認。無効(つまみが左側)になっている場合は有効に変更。
+  - 左上の「Claude」をクリックして元の画面に戻る
 
 ※ Googleアカウント登録をしていない方→ [Googleアカウント作成](../Preparation/GoogleAccount.md)
 
