@@ -57,6 +57,14 @@ https://support.google.com/docs/answer/1696717#zippy=%2C%E3%83%91%E3%82%BD%E3%82
 
 ### AIチャットへのログイン
 
+**Perplexity AIを使用する場合**
+
+- [Perplexity AI](https://www.perplexity.ai/)を右クリックして「新しいウィンドウで開く」
+- 「Welcome back!」画面で「Continue with Google」をクリック
+- Googleアカウントでログイン
+
+**ChatGPTを使用する場合**
+
 - [ChatGPT](https://openai.com/blog/chatgpt)を右クリックして「新しいウィンドウで開く」
 - 「Try ChatGPT」をクリック
 - 「Log in」をクリック
@@ -64,27 +72,26 @@ https://support.google.com/docs/answer/1696717#zippy=%2C%E3%83%91%E3%82%BD%E3%82
 
 ※ ChatGPTに登録をしていない方→ [サービス登録](../Preparation/ChatGPTSignUp.md)
 
-※ **ChatGPTを使いたくない方**→ [Perplexity AI](https://www.perplexity.ai/)
-
 ### AIチャットでプレゼンテーション骨子を作成
 
-- 下記の文をコピーしてChatGPT(Perplexity)に入力し、「沖縄のグルメ」の部分を作成したいプレゼンテーションのテーマに変更して、AIチャットへ送信しよう。
+- 下記の文をコピーしてPerplexity/ChatGPTに入力し、「」の中に作成したいプレゼンテーションのテーマを記入して、AIチャットへ送信しよう。
 
 ```
-沖縄のグルメに関する8分のプレゼンスライドを作成することになりました。各スライドのリード文と記載内容を作成していただけますか？
+「」というタイトルの8分のプレゼンテーション資料の内容を作成してください
 ```
-
-**ChatGPTの基本的な使い方**
-
-- `Message ChatGPT...`あるいは`ChatGPTにメッセージを送信する`と表示されている部分にプロンプトを入力する
-- 改行したい場合はShift+Enterを入力する
-- 入力が終わったらEnterキーを押下するか、上矢印アイコンのクリックで入力内容を送信する
 
 **Perplexity AIの基本的な使い方**
 
-- `Ask anything...`と表示されている部分にプロンプトを入力する
+- `What do you want to know?(何を知りたいですか?)`と表示されている部分にプロンプトを入力する
 - 改行したい場合はShift+Enterを入力する
 - 入力が終わったらEnterキーを押下するか、右矢印アイコンのクリックで入力内容を送信する
+
+**ChatGPTの基本的な使い方**
+
+- `Message ChatGPT(ChatGPTにメッセージを送信する)`と表示されている部分にプロンプトを入力する
+- 改行したい場合はShift+Enterを入力する
+- 入力が終わったらEnterキーを押下するか、上矢印アイコンのクリックで入力内容を送信する
+
 
 **テーマ例**：テーマが思いつかない方はこの中からテーマを選んでください
 
