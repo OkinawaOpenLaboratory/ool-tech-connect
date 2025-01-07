@@ -53,7 +53,8 @@
 
 ### (STEP2-1) 音声ファイルの入手
 
-- 「[sample_voice.mp3](../MediaFiles/sample_voice.mp3)」を右クリックして「名前を付けてリンク先を保存」
+- 「[sample_voice.mp3](../MediaFiles/sample_voice.mp3)」を右クリックして「新しいウィンドウで開く」
+- 右上の「Downlad raw file」をクリックしてダウンロード
 - `sample_voice.mp3`がダウンロードされる
 
 ### (STEP2-2) Whisperで音声ファイルの文字起こしをしてみよう
@@ -110,7 +111,8 @@
 
 ### (STEP4-1) 動画ファイルの入手
 
-- 「[kitten_rescue.mp4](../MediaFiles/kitten_rescue.mp4)」を右クリックして「名前を付けてリンク先を保存」
+- 「[kitten_rescue.mp4](../MediaFiles/kitten_rescue.mp4)」を右クリックして「新しいウィンドウで開く」
+- 右上の「Downlad raw file」をクリックしてダウンロード
 - `kitten_rescue.mp4`がダウンロードされる
 
 ### (STEP4-2) Google AI Studioでの動画認識
@@ -130,6 +132,7 @@
 - Youtube動画「[OOD2022　OOLプロジェクト研究成果発表](https://www.youtube.com/watch?v=9-jQEQA4FKA)」(1時間2分50秒)の内容の要約を説明してもらいます
 - [Google Gemini](https://gemini.google.com/)を右クリックして「新しいウィンドウで開く」
 - 「ログイン」をクリックしてGoogleアカウントでログイン
+- 左上の「Gemini」の下に「1.5 Flash」と書かれている場合はクリックして「2.0 Flash Experimental」に変更
 - 「Geminiへのプロンプトを入力」欄に下記テキストをコピーして貼り付け後、「紙飛行機(送信)アイコン」をクリックしてプロンプトを送信
 
 ```
