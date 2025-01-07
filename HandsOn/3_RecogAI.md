@@ -54,7 +54,7 @@
 ### (STEP2-1) 音声ファイルの入手
 
 - 「[sample_voice.mp3](../MediaFiles/sample_voice.mp3)」を右クリックして「新しいウィンドウで開く」
-- 右上の「Downlad raw file」をクリックしてダウンロード
+- 右上の「Download raw file」をクリックしてダウンロード
 - `sample_voice.mp3`がダウンロードされる
 
 ### (STEP2-2) Whisperで音声ファイルの文字起こしをしてみよう
@@ -112,7 +112,7 @@
 ### (STEP4-1) 動画ファイルの入手
 
 - 「[kitten_rescue.mp4](../MediaFiles/kitten_rescue.mp4)」を右クリックして「新しいウィンドウで開く」
-- 右上の「Downlad raw file」をクリックしてダウンロード
+- 右上の「Download raw file」をクリックしてダウンロード
 - `kitten_rescue.mp4`がダウンロードされる
 
 ### (STEP4-2) Google AI Studioでの動画認識
