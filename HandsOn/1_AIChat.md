@@ -6,9 +6,8 @@
 
 ### (STEP1-1) ChatGPTにログイン
 
-- [ChatGPT](https://openai.com/blog/chatgpt)を右クリックして「新しいウィンドウで開く」
-- 「Try ChatGPT」をクリック
-- 「Log in」をクリック
+- [ChatGPT](https://chatgpt.com/)を右クリックして「新しいウィンドウで開く」
+- 「ログイン」をクリック
 - Googleアカウントでログイン
 
 ※ Googleアカウント登録をしていない方→ [Googleアカウント作成](0_GoogleAccount.md)
@@ -322,7 +321,7 @@ What time is it now?
 
 ### (STEP6-1) Difyへログインしよう
 
-- [Dify](https://dify.ai/jp)を右クリックして「新しいウィンドウで開く」
+- [Dify](https://cloud.dify.ai/)を右クリックして「新しいウィンドウで開く」
 - 「はじめましょう！」画面になるのでGoogleアカウントでログイン
 - cookieの同意が求められたら「Accept All」をクリック
 
