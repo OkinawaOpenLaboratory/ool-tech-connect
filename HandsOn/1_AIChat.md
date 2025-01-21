@@ -203,7 +203,7 @@ No	地方公共団体コード	地方公共団体名	内容
 
 - 下記のケーブル画像を右クリックして「名前を付けて画像を保存」を選択してダウンロード
 
-[<img src="../MediaFiles/cable.jpg" width="30%">](../MediaFiles/cable.jpg)　cable.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cable.jpg" width="30%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cable.jpg)　cable.jpg
 
 - Google AI Studioの左メニューの「Create Prompt」を選択して新たにチャットを開始
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して`cable.jpg`をアップロード
@@ -327,15 +327,14 @@ What time is it now?
 
 ※ Difyに登録をしていない方→ [サービス登録](0_ServiceSignUp.md)
 
-### (STEP6-2) Difyで使用するCommand R+のAPIキーを入手しよう
+### (STEP6-2) Difyで使用するGeminiのAPIキーを入手しよう
 
-- CohereのAPIキーを入手する
-  - [Cohere](https://dashboard.cohere.com/)を右クリックして「新しいウィンドウで開く」
-  - 「Log in」画面で「Continue with Google」をクリックしてGoolgeアカウントでログイン
-  - 左メニューの「API Keys」をクリック
-  - 「Trial keys」のdefaultのKEYの目玉アイコンをクリックすると、目玉アイコンの右に紙が重なったコピーアイコンがでるのでクリックしてキーをコピー
+- [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
+- 左メニューの「Get API Key」をクリック
+- 「APIキーを作成」をクリック
+- 「APIキーが生成されました」ウィンドウが開くので「コピー」をクリック後、右上の「閉じる」をクリック
 
-※ Command R+に登録をしていない方→ [サービス登録](0_ServiceSignUp.md)
+※ 再度APIキーをコピーしたい場合は「APIキーを作成」の下の「APIキーは以下のとおりです。」の下にあるAPIキー情報の「APIキー」の列にある文字列をクリックすれば再度コピーをすることができるウィンドウが開く
 
 ### (STEP6-3) DifyへCommand R+のAPIキーを登録しよう
 
@@ -343,8 +342,8 @@ What time is it now?
   - Difyにログインしたウィンドウへ移動
   - 右上の「Dify」をクリックして「設定」を選択
   - 設定画面の左メニューの「モデルプロバイダー」を選択
-  - Cohereの「セットアップ」をクリック
-  - 「API Key」にCohereのAPIキーを貼り付けて「保存」をクリック
+  - 「Gemini」の「セットアップ」をクリック
+  - 「API Key」にGeminiのAPI Keyを貼り付けて「保存」をクリック
   - 設定ウィンドウの右上の×をクリックして設定画面を閉じる
 
 ### (STEP6-4) Difyを使って熱中症対策を回答してくれるチャットボットを作成してみよう
@@ -370,7 +369,7 @@ What time is it now?
   - 「コンテキスト」の「＋追加」をクリック
   - 「heatillness_manual...」を選択して「追加」を選択
   - 右上の「gpt-3.5-turbo(chat)」をクリック
-  - MODELの「gpt-3.5-turbo(chat)」をクリックして「command-r-plus(chat)」に変更
+  - MODELの「gpt-3.5-turbo(chat)」をクリックして「Gemini 2.0 Flash Exp(chat)」に変更
   - 「公開する」をクリックして「更新」を選択
 
 ### (STEP6-5) 作成したチャットボットを使ってみよう
@@ -518,7 +517,7 @@ Webサイトの作成
 
 - 下のWebページ画像を右クリックして「名前を付けて画像を保存」を選択してダウンロードしておく
 
-[<img src="../MediaFiles/webpage.png" width="30%">](../MediaFiles/webpage.png)　webpage.png
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/webpage.png" width="30%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/webpage.png)　webpage.png
 
 - Lovableで左上のハートマークをクリックして「Go to Dashboard」を選択
 - プロンプト欄下部の「Attach」をクリックしてダウンロードした`webpage.png`をアップロード
