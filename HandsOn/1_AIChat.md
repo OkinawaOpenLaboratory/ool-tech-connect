@@ -1,5 +1,15 @@
 # AIチャットを体験しよう
 
+## (STEP0) AIチャット体験を始める前に
+
+### (STEP0-1) 自己紹介しましょう
+
+ハンズオンをするグループのメンバーに各自1分間の自己紹介をしましょう。
+
+### (STEP0-2) 動画生成AIで動画作成プロンプトを投入しておきましょう
+
+生成に時間がかかる動画生成AIのプロンプトを最初に投入しておきましょう。→ [その他AIを体験しよう](4_OtherAI.md)
+
 ## (STEP1) ChatGPTを使ってみよう
 
 **◆ハンズオン内容◆** : ChatGPTを使って検索・翻訳・ダミーデータ生成を体験しよう
@@ -113,7 +123,7 @@
   - [e-Govデータポータル : オープンデータの取組に関する自治体アンケート結果_自由記述設問（令和２年）](https://data.e-gov.go.jp/data/dataset/digi_20220315_0066/resource/86bead98-ea03-4970-94fb-b0047509770c)
   - `r2_survey_comments.xlsx`のシート「No.21」のアンケートを使用する
 - Google AI Studioの左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Flash Experimental」に設定
+- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
 - 下記テキストをコピーして、Google AI Studioの「Type something」とかかれた中央下部のプロンプト欄に貼り付けて「Run」をクリック
 
 ```
@@ -369,7 +379,7 @@ What time is it now?
   - 「コンテキスト」の「＋追加」をクリック
   - 「heatillness_manual...」を選択して「追加」を選択
   - 右上の「gpt-3.5-turbo(chat)」をクリック
-  - MODELの「gpt-3.5-turbo(chat)」をクリックして「Gemini 2.0 Flash Exp(chat)」に変更
+  - MODELの「gpt-3.5-turbo(chat)」をクリックして「Gemini 2.0 pro 02-05(chat)」に変更
   - 「公開する」をクリックして「更新」を選択
 
 ### (STEP6-5) 作成したチャットボットを使ってみよう

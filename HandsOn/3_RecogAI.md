@@ -26,7 +26,7 @@
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
 - 左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Flash Experimental」に設定
+- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して画像ファイルをアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -53,7 +53,7 @@
 
 ### (STEP2-1) 音声ファイルの入手
 
-- 「[sample_voice.mp3](../MediaFiles/sample_voice.mp3)」を右クリックして「新しいウィンドウで開く」
+- 「[sample_voice.mp3](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/blob/main/MediaFiles/sample_voice.mp3)」を右クリックして「新しいウィンドウで開く」
 - 右上の「Download raw file」をクリックしてダウンロード
 - `sample_voice.mp3`がダウンロードされる
 
@@ -68,7 +68,7 @@
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
 - 左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Flash Experimental」に設定
+- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して音声ファイルをアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -101,9 +101,9 @@
 - 下記の二つ画像をダウンロード (右クリックして名前を付けて画像を保存をクリック)
 - 「Click to upload image」をクリックしてダウンロードした画像をアップロード
 
-[<img src="../MediaFiles/image1.png" width="40%">](../MediaFiles/image1.png)　image1.png
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/image1.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/image1.png)　image1.png
 
-[<img src="../MediaFiles/image2.png" width="40%">](../MediaFiles/image2.png)　image2.png
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/image2.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/image2.png)　image2.png
 
 ## (STEP4) 動画認識AIを体験しよう
 
@@ -111,7 +111,7 @@
 
 ### (STEP4-1) 動画ファイルの入手
 
-- 「[kitten_rescue.mp4](../MediaFiles/kitten_rescue.mp4)」を右クリックして「新しいウィンドウで開く」
+- 「[kitten_rescue.mp4](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/blob/main/MediaFiles/kitten_rescue.mp4)」を右クリックして「新しいウィンドウで開く」
 - 右上の「Download raw file」をクリックしてダウンロード
 - `kitten_rescue.mp4`がダウンロードされる
 
@@ -119,7 +119,7 @@
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
 - 左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Flash Experimental」に設定
+- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して、`kitten_rescue.mp4`をアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -132,7 +132,7 @@
 - Youtube動画「[OOD2022　OOLプロジェクト研究成果発表](https://www.youtube.com/watch?v=9-jQEQA4FKA)」(1時間2分50秒)の内容の要約を説明してもらいます
 - [Google Gemini](https://gemini.google.com/)を右クリックして「新しいウィンドウで開く」
 - 「ログイン」をクリックしてGoogleアカウントでログイン
-- 左上の「Gemini」の下に「1.5 Flash」と書かれている場合はクリックして「2.0 Flash Experimental」に変更
+- 左上の「Gemini」の下に「1.5 Flash」と書かれている場合はクリックして「2.0 Flash」に変更
 - 「Geminiへのプロンプトを入力」欄に下記テキストをコピーして貼り付け後、「紙飛行機(送信)アイコン」をクリックしてプロンプトを送信
 
 ```
