@@ -94,14 +94,14 @@
 ### (STEP2-1) Le Chatにログイン
 
 - [Le Chat](https://chat.mistral.ai)を右クリックして「新しいウィンドウで開く」
-- MISTRAL AI画面で「Sign in with Google」を選択してGoogleアカウントでログイン
-- 「Terms of Service」で提示される「I accept the Terms of Use and Le Chat Terms of Services」をチェックして「Continue」をクリック
-  - ※ 「I would like to receive updates and news about Le Chat」はチェック不要
+- 「Le Chat Terms of Service」ウィンドウが開くので「Accept and continue」
+- 右上の「Sign up」をクリック
+- MISTRAL AI画面で「Sign up with Google」を選択してGoogleアカウントでログイン
 
 ### (STEP2-2) Le Chatで画像を作成
 
-- 「Ask le Chat or @mention an agent」と書かれたプロンプト欄の右下の「Image generation」をクリックして文字がオレンジ色に変更されることを確認
-- 下記のプロンプト例をコピーしてプロンプト入力欄に貼り付け後、「→」ボタンをクリック
+- 「Ask le Chat or @mention an agent」と書かれたプロンプト欄の左下にあるクリップアイコンの右の方にあるVマークをクリックして「Image generation」がチェックされていることを確認。チェックされていない場合はチェックしておく
+- 下記のプロンプト例をコピーしてプロンプト入力欄に貼り付け後、「↑」ボタンをクリック
 
 ```
 フランスのオープンカフェで金髪女性が紅茶を飲んでいる
