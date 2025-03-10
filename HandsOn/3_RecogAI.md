@@ -127,15 +127,3 @@
 この動画ファイルの内容を説明して
 ```
 
-### (STEP4-3) Google GeminiでのYoutube動画認識
-
-- Youtube動画「[OOD2022　OOLプロジェクト研究成果発表](https://www.youtube.com/watch?v=9-jQEQA4FKA)」(1時間2分50秒)の内容の要約を説明してもらいます
-- [Google Gemini](https://gemini.google.com/)を右クリックして「新しいウィンドウで開く」
-- 「ログイン」をクリックしてGoogleアカウントでログイン
-- 左上の「Gemini」の下に「1.5 Flash」と書かれている場合はクリックして「2.0 Flash」に変更
-- 「Geminiへのプロンプトを入力」欄に下記テキストをコピーして貼り付け後、「紙飛行機(送信)アイコン」をクリックしてプロンプトを送信
-
-```
-https://www.youtube.com/watch?v=9-jQEQA4FKA
-の動画の内容を要約して箇条書きで教えて
-```

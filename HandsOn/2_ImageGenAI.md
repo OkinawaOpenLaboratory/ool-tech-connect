@@ -49,7 +49,7 @@
 - **ポーズ画像のダウンロード**
   - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
 
-[<img src="../MediaFiles/peace_sign.png" width="40%">](../MediaFiles/peace_sign.png)　peace_sign.png
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/peace_sign.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/peace_sign.png)　peace_sign.png
 
 - **画像生成設定**
   - 右ペインの「ControlNet」の下の「ポーズコントロールを追加」をクリック
@@ -71,7 +71,7 @@
 - **犬画像のダウンロード**
   - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
 
-[<img src="../MediaFiles/shiba.png" width="40%">](../MediaFiles/shiba.png)　shiba.png
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png)　shiba.png
 
 - **画像生成設定**
   - 左上の「P」をクリックしてトップページに戻った後に、再度左メニューの「生成」をクリック
@@ -89,7 +89,7 @@
 
 ## (STEP2) 高画質な画像を生成してみよう
 
-**◆ハンズオン内容◆** : Le Chatを使用して高画質な画像を生成しよう
+**◆ハンズオン内容◆** : 画像生成できるAIチャットを使用して高画質な画像を生成しよう
 
 ### (STEP2-1) Le Chatにログイン
 
@@ -147,6 +147,39 @@ FAKEと書かれたPC画面を見て驚く女性
 AIロボットが少女にコーヒーを入れている
 ```
 
+### (STEP2-3) Grok3にログイン
+
+- [Grok](https://grok.com/)を右クリックして「新しいウィンドウで開く」
+- 右上の「Sign up」をクリック
+- CLOUDFLAREの「人間であることを確認します」をチェック後、「Continue with Google」をクリックして、Googleアカウントでログイン
+
+### (STEP2-4) Grok3で画像を作成
+
+- 中央の「何を知りたいですか？」と表示されている部分がプロンプト入力欄
+- 下記の「画像：」をコピーしてプロンプト入力欄に貼り付け後、(STEP2-2)に記載されているプロンプト例をコピー＆ペーストして「↑」アイコンをクリックしてプロンプトを送信
+
+```
+画像：
+```
+
+**Grok 3の基本的な使い方**
+
+- 回答の入力
+  - 中央の「何を知りたいですか？」と表示されている部分にプロンプトを入力する
+  - 改行したい場合はShift+Enterを入力する
+  - 入力が終わったらEnterキーを押下するか、「↑矢印」アイコンのクリックで入力内容を送信する
+- 回答の出力
+  - 「↑矢印」アイコンが「□」アイコンになっている間は回答の出力中
+- 会話のリセット
+  - やりとりした内容をリセットして新しい会話を始めたい場合は、右上の「紙とペンアイコン」(新しいチャット)をクリック
+- 以前の会話内容
+  - 右上の「線と虫眼鏡」(履歴)をクリックすると会話履歴が表示される
+- その他
+  - 「クリップアイコン」：添付ファイルをアップロードできる
+  - 「思考する」：「推論」(プロンプトを細かいステップに分けて実行する)機能を有効化
+  - 「DeepSearch」アイコン：「推論」機能で「Web検索」した内容からレポートを作成
+  - 「Grok 3」：クリックするとLLMの選択と「検索を有効化」のオンオフができる
+
 ## (STEP3) 生成AIを使って画像のレタッチをしてみよう
 
 **◆ハンズオン内容◆** : 画像の外側の補完や不要なモノの消去などを体験しよう
@@ -156,7 +189,7 @@ AIロボットが少女にコーヒーを入れている
 - **画像のダウンロード**
   - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
 
-[<img src="../MediaFiles/woman1.jpg" width="40%">](../MediaFiles/woman1.jpg)　woman1.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg)　woman1.jpg
 
 - **My Editにログイン**
   - [My Edit](https://myedit.online/jp/photo-editor)を右クリックして「新しいウィンドウで開く」
@@ -178,7 +211,7 @@ AIロボットが少女にコーヒーを入れている
 - **画像のダウンロード**
   - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
 
-[<img src="../MediaFiles/woman2.jpg" width="40%">](../MediaFiles/woman2.jpg)　woman2.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg)　woman2.jpg
 
 - **Clipdropにログイン**
   - [Clipdrop](https://clipdrop.co/)を右クリックして「新しいウィンドウで開く」
