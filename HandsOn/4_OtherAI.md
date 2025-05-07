@@ -50,37 +50,37 @@
 
 **入力画像＋プロンプト例 (Image to Video用)**
 
-[<img src="../MediaFiles/businessman.jpg" width="40%">](../MediaFiles/businessman.jpg)　businessman.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/businessman.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/businessman.jpg)　businessman.jpg
 
 ```
 静かにPCのキーボードを操作しているビジネスマン。背後では波がしずかに打ち寄せている。カモメたちは沖の方へゆっくりと滑空している。
 ```
 
-[<img src="../MediaFiles/beach.jpg" width="40%">](../MediaFiles/beach.jpg)　beach.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/beach.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/beach.jpg)　beach.jpg
 
 ```
 砂浜に波が打ち寄せている。遠くの雲はゆっくり動いている。
 ```
 
-[<img src="../MediaFiles/robot.jpg" width="40%">](../MediaFiles/robot.jpg)　robot.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot.jpg)　robot.jpg
 
 ```
 会議室のロボットに話しかけている男性。ロボットはうなづきながら話を聞いている。ほかの人物はしずかに座っている。
 ```
 
-[<img src="../MediaFiles/cat.jpg" width="40%">](../MediaFiles/cat.jpg)　cat.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cat.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cat.jpg)　cat.jpg
 
 ```
 猫が床で楽しそうに遊んでいる
 ```
 
-[<img src="../MediaFiles/dog.jpg" width="40%">](../MediaFiles/dog.jpg)　dog.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/dog.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/dog.jpg)　dog.jpg
 
 ```
 犬が遊んでいる
 ```
 
-[<img src="../MediaFiles/robot2.jpg" width="40%">](../MediaFiles/robot2.jpg)　robot2.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot2.jpg)　robot2.jpg
 
 ```
 ロボットがこちらにあいさつしている
@@ -178,7 +178,7 @@
 
   - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
 
-[<img src="../MediaFiles/woman3.jpg" width="40%">](../MediaFiles/woman3.jpg)　woman3.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman3.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman3.jpg)　woman3.jpg
 
 ### (STEP4-2) アバター用音声ファイルの作成
 
@@ -218,7 +218,44 @@
 作成した`ttsmaker-file-YYYY-MM-DD-HH-MM-SS.mp3`という形式の音声ファイルをアップロードする
 - 音声のアップロードが終わったら右上の「生成する」をクリック
 
-## (STEP5) アンケート回答しよう
+## (STEP5) 説明図生成AIを体験しよう
+
+**◆ハンズオン内容◆** : 説明図生成AIのNapkin体験しよう
+
+### (STEP5-1) Napkinで文章から説明図を生成しよう
+
+- [Napkin](https://www.napkin.ai/)を右クリックして「新しいウィンドウで開く」
+- 右上の「Get Napkin Free→」をクリック
+- 「Sign in with Google」をクリックしてGoogleアカウントでログイン
+  - 「How are you planning to use Napkin?」と聞かれるので「For personal use」などを選択して「Next」
+  - 「Where are you planning to use your Napkin visuals?」と聞かれるので「Presentation」などを選択して「Submit」
+  - 「Thanks ～」と表示されるので「Done」をクリック
+- 「Welcome to Napkin!」と表示されるので「create my first Napkin」をクリック
+- 「How would you like to add text?」と表示された画面になったら「By pasting my text content」をクリック
+- 「Past your text content」と表示された画面になるので、下記のコピー用テキストをコピーして「Past your content to summarize with a visual here [Ctrl]+[V]」と書かれたエリアに貼り付け
+
+※ すでに一度Napkinを利用したことがある方は以下の手順になります
+
+- 「+ New Napkin」をクリックして「Blank Napkin」を選択
+- 下記のコピー用テキストをコピーして「Untitled」と書かれたエリアに貼り付け
+
+
+```
+日本政府のAI戦略の基本原則と戦略目標日本政府のAI戦略は、「人間尊重」、「多様性」、「持続可能」という3つの基本理念に基づいて、Society 5.0の実現と持続可能な開発目標（SDGs）への貢献を目指しています。これらの理念は、単に技術開発を推進するだけでなく、社会全体の調和と持続可能性を重視する日本の姿勢を示しています。また、「責任あるAI」の概念を重視し、「説明可能なAI」などの技術開発や運用におけるリーダーシップの確立を目指しています。「AI戦略2022」では、これらの理念を具体化するために、以下の5つの戦略目標が設定されています。
+人材: 人口比において最もAI時代に対応した人材を育成・吸引する国となり、持続的に実現する仕組みを構築する。
+産業競争力: 実世界産業においてAI化を促進し、世界のトップランナーの地位を確保する。
+技術体系: 理念を実現するための一連の技術体系を確立し運用するための仕組みを実現する。
+国際: 国際的なAI研究・教育・社会基盤ネットワークを構築する。
+差し迫った危機への対処: パンデミックや大規模災害に対し、人々の生命と財産を最大限に守る体制と技術基盤を構築し、適正かつ持続的に運用する。
+これらの戦略目標に加えて、社会実装の充実、パンデミックや自然災害といった喫緊の課題への対処、経済安全保障の観点からの取り組み、そしてサステナビリティ分野におけるAIの応用などが重要な焦点となっています。特に、食料供給の安定化、エネルギー問題への対応、医療・教育へのアクセス改善、資源の循環化といった分野でのAI活用が期待されています。
+```
+
+- 貼り付けたテキストの左側に「(Generate Visual＋)稲妻アイコン」がでてくるのでクリックして図を生成させる
+- 「Scroll to explore. Click to validate.」という吹き出しがついた図のリスト上でマウスを動かすと様々な図が表示されるのでどの図にするかをクリックして決定する
+- 図のスタイルリストが表示されるのでマウスを動かしてスタイルを表示させてどのスタイルにするかをクリックして決定する
+- 生成された図を選択して右クリックして「Export」を選ぶと、PNG/SVG/PPT/PDF形式でダウンロードすることができる
+
+## (STEP6) アンケート回答しよう
 
 - 下記URLにアンケートのURLが記載されたテキストがあるのでアンケートへご回答お願いします。
 
