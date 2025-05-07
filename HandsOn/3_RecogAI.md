@@ -87,19 +87,22 @@
 
 ### (STEP3-1) YOLOを用いた物体検出を体験しよう
 
-- [YOLOv10](https://huggingface.co/spaces/kadirnar/Yolov10)
-を右クリックして「新しいウィンドウで開く」
+- [YOLO11](https://huggingface.co/spaces/Ultralytics/YOLO11)を右クリックして「新しいウィンドウで開く」
+- 下記の二つ画像をダウンロード (右クリックして名前を付けて画像を保存をクリック)
+- 「ここに画像をドロップまたはクリックしてアップロード」をクリックしてダウンロードした画像をアップロード
+- 「Model Name」を「yolo11n」(nano)から「yolo11s」(small)に変更
+- 「Submit」をクリックすると画像認識を実施
+- 画像認識結果をダウンロードすると認識内容をきちんと読み取れる
+- 別の画像を認識させる場合はアップロードした画像の右上の「×(Remove Image)」アイコンをクリックして画像を削除してから画像をアップロードする
+
+**YOLO11が動作しない場合はYOLOv10を使ってください**
+
+- [YOLOv10](https://huggingface.co/spaces/kadirnar/Yolov10)を右クリックして「新しいウィンドウで開く」
 - 下記の二つ画像をダウンロード (右クリックして名前を付けて画像を保存をクリック)
 - 「ここに画像をドロップまたはクリックしてアップロード」をクリックしてダウンロードした画像をアップロード
 - 「Detect Objects」をクリックすると画像認識を実施
 - 画像認識結果をダウンロードすると認識内容をきちんと読み取れる
 - 別の画像を認識させる場合はアップロードした画像の右上の「×(Remove Image)」アイコンをクリックして画像を削除してから画像をアップロードする
-
-**YOLOv10が動作しない場合はYOLOv9を使ってください**
-
-- [YOLOv9](https://huggingface.co/spaces/Xenova/yolov9-web)を右クリックして「新しいウィンドウで開く」
-- 下記の二つ画像をダウンロード (右クリックして名前を付けて画像を保存をクリック)
-- 「Click to upload image」をクリックしてダウンロードした画像をアップロード
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/image1.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/image1.png)　image1.png
 
