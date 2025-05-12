@@ -122,8 +122,8 @@
 - 自治体アンケートデータ
   - [e-Govデータポータル : オープンデータの取組に関する自治体アンケート結果_自由記述設問（令和２年）](https://data.e-gov.go.jp/data/dataset/digi_20220315_0066/resource/86bead98-ea03-4970-94fb-b0047509770c)
   - `r2_survey_comments.xlsx`のシート「No.21」のアンケートを使用する
-- Google AI Studioの左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
+- Google AI Studioの左メニューで「Chat」が選択されていることを確認
+- 右の「Run settings」を「Gemini 2.5 Flash Preview 04-17」に設定
 - 下記テキストをコピーして、Google AI Studioの「Type something」とかかれた中央下部のプロンプト欄に貼り付けて「Run」をクリック
 
 ```
@@ -201,11 +201,11 @@ No	地方公共団体コード	地方公共団体名	内容
   - 「Stop」アイコンをクリックすると回答出力を止めることができる
     - 「つづけて」や「continue」と入力すると、回答出力を再開させることができる
 - 会話のリセット
-  - やりとりした内容をリセットして新しい会話を始めたい場合は、左上の「Create Prompt」をクリック
+  - やりとりした内容をリセットして新しい会話を始めたい場合は、左上の「Chat」をクリック
 - 以前の会話内容
-  - 会話後に右上の「Save」をクリックすると会話内容をLibraryに保存することができる
-  - 保存した会話の内容は左メニューの「Library」で見ることができる
-  - 「Library」をクリックすると会話一覧が表示される。この一覧で右に表示される縦の「…」アイコンをクリックして「Delete prompt」を選択すると保存された会話を削除することができる
+  - 会話後に右上の「フロッピーディスクアイコン(Save Prompt)」をクリックすると会話内容をHistoryに保存することができる
+  - 保存した会話の内容は左メニューの「History」で見ることができる
+  - 「History」をクリックすると会話一覧が表示される。この一覧で保存された会話を選んで表示させた後、右上に表示される縦の「…」アイコンをクリックして「Delete prompt」を選択すると保存された会話を削除することができる
 
 ### (STEP2-3) Google AI Studioに画像に写っているものを教えてもらおう
 
@@ -215,8 +215,8 @@ No	地方公共団体コード	地方公共団体名	内容
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cable.jpg" width="30%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cable.jpg)　cable.jpg
 
-- Google AI Studioの左メニューの「Create Prompt」を選択して新たにチャットを開始
-- 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して`cable.jpg`をアップロード
+- Google AI Studioの左メニューの「Chat」を選択して新たにチャットを開始
+- 「Type something」とかかれた中央のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して`cable.jpg`をアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
 ```
@@ -266,8 +266,8 @@ No	地方公共団体コード	地方公共団体名	内容
 - [Felo](https://felo.ai/)を右クリックして「新しいウィンドウで開く」
 - 左下の「ログイン・無料登録」をクリック
 - 「おかえりなさい」ウィンドウになるので「Googleで続行」をクリックしてGoogleアカウントでログイン
-- プロンプト欄の右下のProをチェックした後、プロンプト欄上部に現れる「クイック」「ディープ」のうち「ディープ」をクリックして選択状態にする。
-- 右下の「Pro」と表示されていた部分が「(DeepSeek)R1」になっていない場合は、「(DeepSeek)R1」に変更する
+- プロンプト欄の右下のProをチェックした後、プロンプト欄上部に現れる「クイック」「研究」のうち「研究」をクリックして選択状態にする。
+- 右下の「Pro」と表示されていた部分が「Research Agent」になっていることを確認
 - 「何でも質問してください…」と書かれたプロンプト欄に下記の文を入力して「→」をクリックしよう
 
 ```
