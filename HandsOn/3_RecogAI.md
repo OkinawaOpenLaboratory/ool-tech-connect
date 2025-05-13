@@ -25,8 +25,8 @@
 ### (STEP1-3) Google AI Studioでの文字認識
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
-- 左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
+- 左メニューで「Chat」が選択されていることを確認
+- 右の「Model」を「Gemini 2.5 Flash Preview 04-17」に設定
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して画像ファイルをアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -67,8 +67,8 @@
 ### (STEP2-3) Google AI Studioで文字起こし
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
-- 左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
+- 左メニューで「Chat」が選択されていることを確認
+- 右の「Model」を「Gemini 2.5 Flash Preview 04-17」に設定
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して音声ファイルをアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -121,8 +121,8 @@
 ### (STEP4-2) Google AI Studioでの動画認識
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
-- 左メニューで「Create Prompt」が選択されていることを確認
-- 右の「Model」を「Gemini 2.0 Pro Experimental 02-05」に設定
+- 左メニューで「Chat」が選択されていることを確認
+- 右の「Model」を「Gemini 2.5 Flash Preview 04-17」に設定
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して、`kitten_rescue.mp4`をアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
