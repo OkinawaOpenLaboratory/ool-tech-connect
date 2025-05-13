@@ -11,6 +11,7 @@
 
 ### (STEP1-2) ChatGPTで画像を生成してみよう
 
+- 「画像を作成する」アイコンをクリックして青い状態にする
 - 下記のポーズ画像、被写体画像、背景画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 **ポーズ画像**
@@ -160,7 +161,7 @@ AIロボットが少女にコーヒーを入れている画像を3Dアニメ風�
   - 右上の「Sign-in/Sign-up」をクリック
   - 「Sign in to continue」画面で「Continue with Google」を選択してGoogleアカウントでログイン
 - **不要なモノを削除**
-  - 上から3段目の一番左にある「Cleanup」をクリック
+  - 「Image edition」をクリック後、上から2段目の真ん中にある「Cleanup」をクリック
   - 「Click, paste, or drop a file here to start.」をクリックして`woman2.jpg`をアップロード
   - 緑色の円でテーブルの上の物を塗りつぶして「Clean」をクリック
 
@@ -170,7 +171,7 @@ AIロボットが少女にコーヒーを入れている画像を3Dアニメ風�
   - 左上の「< Back」をクリックして「CLEANUP」の画面に戻る
   - 左上の「Clipdrop by Jasper」をクリックしてメインページへ戻る
 - **背景の除去**
-  - 上から2段目の一番右にある「Remove background」をクリック
+  - 「Image edition」をクリック後、上から2段目の一番左にある「Remove background」をクリック
   - 「Click, paste, or drop up to 10 files here to start.」をクリックして`woman2.jpg`をアップロード
   - 「Remove background」をクリック
 
