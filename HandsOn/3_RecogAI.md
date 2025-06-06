@@ -26,7 +26,8 @@
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
 - 左メニューで「Chat」が選択されていることを確認
-- 右の「Model」を「Gemini 2.5 Flash Preview 04-17」に設定
+- 右の「Run Settings」の下に表示されるモデルを「Gemini 2.5 Flash Preview 05-20」に設定
+- 「Thinking」の下にある「Thinking mode」のチェックをオフに(「－」表示にする)
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して画像ファイルをアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -68,7 +69,8 @@
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
 - 左メニューで「Chat」が選択されていることを確認
-- 右の「Model」を「Gemini 2.5 Flash Preview 04-17」に設定
+- 右の「Run Settings」の下に表示されるモデルを「Gemini 2.5 Flash Preview 05-20」に設定
+- 「Thinking」の下にある「Thinking mode」のチェックをオフに(「－」表示にする)
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して音声ファイルをアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
@@ -122,7 +124,8 @@
 
 - [Google AI Studio](https://aistudio.google.com/)を右クリックして「新しいウィンドウで開く」
 - 左メニューで「Chat」が選択されていることを確認
-- 右の「Model」を「Gemini 2.5 Flash Preview 04-17」に設定
+- 右の「Run Settings」の下に表示されるモデルを「Gemini 2.5 Flash Preview 05-20」に設定
+- 「Thinking」の下にある「Thinking mode」のチェックをオフに(「－」表示にする)
 - 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して、`kitten_rescue.mp4`をアップロード
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
