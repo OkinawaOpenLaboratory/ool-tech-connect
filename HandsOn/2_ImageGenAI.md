@@ -1,8 +1,8 @@
 # 画像生成AIを体験しよう
 
-## (STEP1) 画像の構図を制御しながら画像を生成してみよう
+## (STEP1) 高度な画像生成を体験しよう
 
-**◆ハンズオン内容◆** : 画像の対象やポーズを指定して画像を生成しよう
+**◆ハンズオン内容◆** : 画像の対象やポーズを指定した画像生成や画風変更を体験しよう
 
 ### (STEP1-1) ChatGPTにログイン
 
@@ -14,10 +14,10 @@
 
 ※ ChatGPTに登録をしていない方→ [サービス登録](0_ServiceSignUp.md)
 
-### (STEP1-2) ChatGPTで画像を生成してみよう
+### (STEP1-2) ポーズや被写体を指定して画像を生成してみよう
 
 - 「画像を作成する」アイコンをクリックして青い状態にする
-- 下記のポーズ画像、被写体画像、背景画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
+- 下記のポーズ画像、被写体画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 **ポーズ画像**
 
@@ -28,33 +28,13 @@
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman-anime.png)　woman-anime.png
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/man-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/man-anime.png)　man-anime.png
 
-**背景画像**
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/background-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/background-anime.png)　background-anime.png
-
 - プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
 
 ```
-二番目の画像の被写体が最初の画像のポーズをしている三番目の画像を背景とした画像を作成して
+二番目の画像の被写体が最初の画像のポーズをしていて背景が市街地の画像を作成して
 ```
 
-### (STEP1-3) 犬の特徴を反映した画像を生成してみよう
-
-- 左の「新しいチャット」をクリックして新しいチャットを開始
-- 「画像を作成する」アイコンをクリックして青い状態にする
-- 下記の犬画像をChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
-
-**犬画像**
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png)　shiba.png
-
-- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
-
-```
-この画像の被写体が砂浜を走っている画像を作成して
-```
-
-### (STEP1-4) 実写画像をアニメ風に修正してみよう
+### (STEP1-3) 実写画像をアニメ風に修正してみよう
 
 - 左の「新しいチャット」をクリックして新しいチャットを開始
 - 「画像を作成する」アイコンをクリックして青い状態にする
@@ -70,9 +50,44 @@
 この画像をアニメ風に修正して
 ```
 
-## (STEP2) 高画質な画像を生成してみよう
+### (STEP1-4) 犬の特徴を反映した画像を生成してみよう
 
-**◆ハンズオン内容◆** : 画像生成できるAIチャットを使用して高画質な画像を生成しよう
+- 左の「新しいチャット」をクリックして新しいチャットを開始
+- 「画像を作成する」アイコンをクリックして青い状態にする
+- 下記の犬画像をChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
+
+**犬画像**
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png)　shiba.png
+
+- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
+
+```
+この画像の被写体が砂浜を走っている画像を作成して
+```
+
+### (STEP1-5) ポーズ・被写体・背景を指定した画像で生成してみよう
+
+※ 無料版のChatGPTは画像のアップロードは一日三枚までとなっているので、このハンズオンを実施するにはその日に何もアップロードしていない状態でないといけません
+
+- 左の「新しいチャット」をクリックして新しいチャットを開始
+- 「画像を作成する」アイコンをクリックして青い状態にする
+- (STEP1-2)で使用したポーズ画像、被写体画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
+- 下記の背景画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
+
+**背景画像**
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/background-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/background-anime.png)　background-anime.png
+
+- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
+
+```
+二番目の画像の被写体が最初の画像のポーズをしている三番目の画像を背景とした画像を作成して
+```
+
+## (STEP2) いろいろな画像を生成してみよう
+
+**◆ハンズオン内容◆** : 無料でたくさんの画像生成が可能なGeminiを利用していろいろな画像を生成してみよう
 
 ### (STEP2-1) Geminiにログイン
 
