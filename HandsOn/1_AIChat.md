@@ -27,9 +27,9 @@
   - [e-Govデータポータル : オープンデータの取組に関する自治体アンケート結果_自由記述設問（令和２年）](https://data.e-gov.go.jp/data/dataset/digi_20220315_0066/resource/86bead98-ea03-4970-94fb-b0047509770c)
   - `r2_survey_comments.xlsx`のシート「No.21」のアンケートを使用する
 - Google AI Studioの左メニューで「Chat」が選択されていることを確認
-- 右の「Run Settings」の下に表示されるモデルを「Gemini 2.5 Flash Preview 05-20」に設定
+- 右の「Run Settings」の下に表示されるモデルを「Gemini 2.5 Flash」に設定
 - 「Thinking」の下にある「Thinking mode」のチェックをオフに(「－」表示にする)
-- 下記テキストをコピーして、Google AI Studioの「Type something」とかかれた中央下部のプロンプト欄に貼り付けて「Run」をクリック
+- 下記テキストをコピーして、Google AI Studioの中央のプロンプト欄に貼り付けて「Run」をクリック
 
 ```
 以下のアンケートの内容を分類するカテゴリを作成してください。
@@ -98,7 +98,7 @@ No	地方公共団体コード	地方公共団体名	内容
 **Google AI Studioの基本的な使い方**
 
 - 回答の入力
-  - 中央下部の`Type something`と表示されている部分にプロンプトを入力する
+  - 中央のテキスト入力する部分にプロンプトを入力する
   - 改行したい場合はEnterを入力する
   - 入力が終わったらCtrl+Enterキーを押下するか、「Run」アイコンのクリックで入力内容を送信する
 - 回答の出力
@@ -114,13 +114,13 @@ No	地方公共団体コード	地方公共団体名	内容
 
 **◆ハンズオン内容◆** : Google AI Studioに画像に写っている謎のケーブルが何かを聞こう
 
+- Google AI Studioの左メニューの「Chat」を選択して新たにチャットを開始
+- 「Thinking」の下にある「Thinking mode」のチェックをオフに(「－」表示にする)
 - 下記のケーブル画像を右クリックして「名前を付けて画像を保存」を選択してダウンロード
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cable.jpg" width="30%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cable.jpg)　cable.jpg
-
-- Google AI Studioの左メニューの「Chat」を選択して新たにチャットを開始
-- 「Thinking」の下にある「Thinking mode」のチェックをオフに(「－」表示にする)
-- 「Type something」とかかれた中央下部のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して`cable.jpg`をアップロード
+- 中央のプロンプト欄の右にある(＋)アイコンをクリックして「Upload File」を選択して`cable.jpg`をアップロード
+  - Web上の画像をプロンプト欄へドラッグ&ドロップしてもOK
 - 下記テキストをコピーしてプロンプト欄に貼り付けて「Run」をクリック
 
 ```
@@ -168,11 +168,11 @@ No	地方公共団体コード	地方公共団体名	内容
 ### (STEP3-1) Feloを使ってディープリサーチを体験しよう
 
 - [Felo](https://felo.ai/)を右クリックして「新しいウィンドウで開く」
-- 左下の「ログイン・無料登録」をクリック
-- 「おかえりなさい」ウィンドウになるので「Googleで続行」をクリックしてGoogleアカウントでログイン
-- プロンプト欄の右下のProをチェックした後、プロンプト欄上部に現れる「クイック」「研究」のうち「研究」をクリックして青文字にする。
-- 右下の「Pro」と表示されていた部分が「Research Agent」になっていることを確認
-- 「何でも質問してください…」と書かれたプロンプト欄に下記の文を入力して「→」をクリックしよう
+- 右上の「登録」アイコンをクリック
+- 「Feloへようこそ」ウィンドウになるので「Googleで続行」をクリックしてGoogleアカウントでログイン
+- プロンプト欄の右下のProをチェックした後、モデルを「Best」に変更
+- プロンプト欄上部の「検索」を「リサーチ分析」に変更
+- 「研究テーマを入力…」と書かれたプロンプト欄に下記の文を入力して「→」をクリックしよう
 
 ```
 日本政府のAI戦略について方針と具体的な施策について調べてまとめてください
@@ -277,7 +277,7 @@ What time is it now?
   - 「チャンク設定」は変更なし
   - 「インデックス方法」を「高品質」から「経済的」に変更
   - 「保存して処理」をクリック
-  - 「(STEP3)実行と完成」画面に「ナレッジが作成されました」とされるので「ドキュメントに移動」をクリック
+  - 「(STEP3)実行と完成」画面に「ナレッジベースが作成されました」とされるので「ドキュメントに移動」をクリック
   - 「ドキュメント」画面で「heatillness_manual.pdf」のステータスが「利用可能」と表示されていたらナレッジの作成完了
     - 左メニューの「検索テスト」でナレッジの検索テストが実施可能
     - 左メニューの「設定」でナレッジベースの名前や説明を変更できる
@@ -329,9 +329,11 @@ What time is it now?
 ### (STEP6-1) Lovableにログイン
 
 - [Lovable](https://lovable.dev/)を右クリックして「新しいウィンドウで開く」
-- 右上の「Sign Up」をクリック
+- 右上の「Get Started」をクリック
 - 「Create your account」画面になるので「Sign up with Google」をクリックしてGoogleアカウントでログイン
 - 「What do you want to build?」というウィンドウが開くので「Skip」をクリック
+- 「Meet Agent Mode (Beta)」というウィンドウが開いたら「Try Later」をクリック
+- 「Teams is now Pro」というウィンドウが開いたら「Got it」をクリック
 
 ### (STEP6-2) Lovableで文字色を変更するWebアプリを作成してみよう
 
