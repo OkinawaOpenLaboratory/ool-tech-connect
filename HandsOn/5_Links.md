@@ -5,22 +5,17 @@
 - [OpenAI ChatGPT](https://chatgpt.com/)
 - [Google Gemini](https://gemini.google.com/)
 - [Google AI Studio](https://aistudio.google.com/)
-- [Mistral AI Le Chat](https://mistral.ai/news/le-chat-mistral/)
 - [Anthropic Claude](https://claude.ai/)
-- [Cohere(Command R+)](https://dashboard.cohere.com/)
+- [xAI Grok](https://x.ai/grok)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
+- [Cohere Command](https://dashboard.cohere.com/)
+- [Mistral AI Le Chat](https://mistral.ai/news/le-chat-mistral/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Genspark](https://www.genspark.ai/)
 - [Felo](https://felo.ai/)
 - [NotebookLM](https://notebooklm.google.com/)
-- [groq](https://groq.com/)
 - [Dify](https://dify.ai/jp)
-
-### AIアクセラレータ
-
-- [Cerebras社 WSE-3](https://cerebras.ai/product-chip/)
-- [Groq社 GroqChip](https://groq.com/product-spec-sheet-groqchip-processor/)
-- [d-Matrix社 Corsair](https://www.d-matrix.ai/product/)
+- [Inception Labs (Mercury Coder)](https://www.inceptionlabs.ai/)
 
 ## 画像生成AI
 
@@ -31,12 +26,12 @@
   - [Stable Diffusion Online](https://stablediffusionweb.com/)
   - [DreamStudio](https://dreamstudio.ai/)
   - [Mage.space](https://www.mage.space/)
+- [Adobe Firefly](https://firefly.adobe.com/)
+- [Midjourney](https://www.midjourney.com/)
 - [Recraft](https://www.recraft.ai/)
 - [Flux.1 AI](https://flux1.ai/)
-- [Midjourney](https://www.midjourney.com/)
 - [Ideogram](https://ideogram.ai/)
 - [Playground](https://playground.com/)
-- [Adobe Firefly](https://firefly.adobe.com/)
 - [Google ImageFX](https://labs.google/fx/tools/image-fx)
 - [Microsoft Image Creator](https://copilot.microsoft.com/images/create)
 - [PixAI.Art](https://pixai.art/)
@@ -44,14 +39,7 @@
 - [Seaart](https://www.seaart.ai/)
 - [OmniGen AI](https://omnigenai.org/)
 - [My Edit](https://myedit.online/jp/photo-editor)
-
-### 高速画像生成
-
-- [LCM](https://github.com/luosiallen/latent-consistency-model)
-- [SDXL-Turbo](https://huggingface.co/stabilityai/sdxl-turbo)
-- [Stream Diffusion](https://github.com/cumulo-autumn/StreamDiffusion/blob/main/README-ja.md)
-- [SDXL-Lightning](https://huggingface.co/ByteDance/SDXL-Lightning)
-- [Open AI sCM](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)
+- [Clipdrop](https://clipdrop.co/)
 
 ### 画像用の人体ポーズ取得サイト
 
@@ -64,16 +52,15 @@
 
 ## 動画生成AI
 
+- [ByteDance Seedance](https://seed.bytedance.com/en/seedance)
 - [Sora](https://openai.com/sora/)
+- [Veo](https://deepmind.google/models/veo/)
 - [Hailuo AI](https://hailuoai.video/)
-- [Mochi 1](https://www.genmo.ai/play)
-- [Runway Gen-3 Alpha](https://runwayml.com/research/introducing-gen-3-alpha)
+- [PixVerse](https://app.pixverse.ai/)
+- [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 - [KLING](https://klingai.com/)
 - [Dream Machine](https://lumalabs.ai/dream-machine)
-- [Kaiber](https://kaiber.ai/)
 - [Pika](https://pika.art/)
-- [Vrew](https://vrew.voyagerx.com/ja/)
-- [fliki](https://fliki.ai/)
 
 ### 解説動画生成AI
 
@@ -89,11 +76,10 @@
 
 - [Suno AI](https://suno.com/)
 - [Udio](https://www.udio.com/)
+- [Riffusion](https://www.riffusion.com/)
 - [SOUNDRAW](https://soundraw.io/ja)
 - [Boomy](https://boomy.com/)
 - [AIVA](https://www.aiva.ai/)
-- [Mubert](https://mubert.com/)
-- [Stable Audio](https://www.stableaudio.com/)
 
 ## 音声生成AI
 
@@ -102,40 +88,6 @@
 - [CoeFont](https://coefont.cloud/)
 - [TTSMaker](https://ttsmaker.com/)
 - [AivisSpeech](https://aivis-project.com/)
-- [Voice Engine](https://voicengine.ai/)
-- [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/)
-
-## AIアバター
-
-- [Creative Reality Studio](https://www.d-id.com/creative-reality-studio/)
-- [HeyGen](https://www.heygen.com/)
-- [Synthesia](https://www.synthesia.io/)
-- [Vidnoz AI](https://jp.vidnoz.com/)
-- [Hedra](https://www.hedra.com/)
-- [Live Portrait AI](https://liveportrait.org/ja)
-
-### 3Dアバター
-
-- [Avaturn](https://avaturn.me/)
-
-## プログラム生成
-
-### プログラミング補助AI
-
-- [GitHub Copilot](https://github.com/features/copilot)
-- [Cursor](https://cursor.sh/)
-- [Cline (vscode拡張機能)](https://github.com/cline/cline)
-
-### Webアプリ生成AI
-
-- [Claude Artifacts](https://claude.ai/)
-- [Llama Coder](https://llamacoder.together.ai/)
-- [Vercel v0](https://v0.dev/)
-- [Create.xyz](https://www.create.xyz/)
-- [bolt.new](https://bolt.new/)
-- [Lovable](https://lovable.dev/)
-- [Replit Agent](https://replit.com/)
-- [GitHub Spark](https://githubnext.com/projects/github-spark/)
 
 ## 3D生成
 
@@ -156,6 +108,53 @@
 - [World Labs LMW(Large World Models)](https://www.worldlabs.ai/)
 - [Google DeepMind Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 
+## AIアバター
+
+- [Creative Reality Studio](https://www.d-id.com/creative-reality-studio/)
+- [HeyGen](https://www.heygen.com/)
+- [Synthesia](https://www.synthesia.io/)
+- [Vidnoz AI](https://jp.vidnoz.com/)
+- [Hedra](https://www.hedra.com/)
+- [Live Portrait AI](https://liveportrait.org/ja)
+
+### 3Dアバター
+
+- [Avaturn](https://avaturn.me/)
+
+## プログラム生成
+
+### プログラミング補助AI
+
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Google Code Assist](https://codeassist.google/products/business)
+- [Cursor](https://cursor.sh/)
+- [Cline (vscode拡張機能)](https://github.com/cline/cline)
+
+### Webアプリ生成AI
+
+- [Claude Artifacts](https://claude.ai/)
+- [Llama Coder](https://llamacoder.together.ai/)
+- [Vercel v0](https://v0.dev/)
+- [Create.xyz](https://www.create.xyz/)
+- [bolt.new](https://bolt.new/)
+- [Lovable](https://lovable.dev/)
+- [Replit Agent](https://replit.com/)
+- [GitHub Spark](https://githubnext.com/projects/github-spark/)
+
+## 資料生成
+
+### プレゼンテーションスライド生成AI
+
+- [イルシル](https://irusiru.jp/)
+- [Gamma](https://gamma.app/ja)
+- [SlideAI](https://www.slidesai.io/ja)
+- [Canva AI](https://www.canva.com/ja_jp/create/ai-presentations/)
+- [Microsoft 365 Copilot](https://www.microsoft.com/ja-jp/microsoft-365/copilot/)
+
+### 説明図生成AI
+
+- [Napkin](https://www.napkin.ai/)
+
 ## 認識系AI
 
 ### 文字認識
@@ -168,7 +167,7 @@
 
 ### 画像認識(物体検出)
 
-- [YOLO (You Only Look Once)](https://huggingface.co/spaces/kadirnar/Yolov10)
+- [YOLO (You Only Look Once)](https://huggingface.co/spaces/Ultralytics/YOLO11)
 
 ### 画像認識(深度推定)
 
@@ -180,32 +179,39 @@
 - [rabbit r1](https://www.rabbit.tech/)
 - [Frame](https://brilliant.xyz/)
 - [Ray-Ban Meta](https://www.meta.com/jp/smart-glasses/)
+- [Apple Vision Pro](https://www.apple.com/jp/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/)
 - [Project Moohan](https://blog.google/products/android/android-xr/)
 
 ## ロボット技術
 
 - [Sanctuary AI / Phoenix](https://sanctuary.ai/product/)
-- [Figure AI / Figure 01](https://www.figure.ai/)
+- [Figure AI / Figure 02](https://www.figure.ai/)
 - [1X Technologies / EVE](https://www.1x.tech/androids/eve)
 - [1X Technologies / NEO](https://www.1x.tech/androids/neo)
 - [Robotic Transformer 2 (RT-2)](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)
+- [Gemini Robotics On-Device](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
+- [Helix](https://www.figure.ai/news/helix)
 
 ## 生成AIランキングサイト
 
 - AIチャット
-  - [Chatbot Arena](https://lmarena.ai/) : アクセス後に「Leaderboard」タブをクリック
+  - [LMArena](https://lmarena.ai/leaderboard)
   - [Artificial Analysis -Language Models-](https://artificialanalysis.ai/leaderboards/models)
 - 画像生成AI
-  - [Artificial Analysis -Text To Image-](https://artificialanalysis.ai/text-to-image)
+  - [Artificial Analysis -Image Arena-](https://artificialanalysis.ai/text-to-image/arena?tab=leaderboard)
 - 動画生成AI
-  - [Artificial Analysis -Video Generation-](https://artificialanalysis.ai/text-to-video/arena?tab=Leaderboard)
+  - [Artificial Analysis -Video Arena-](https://artificialanalysis.ai/text-to-video/arena?tab=leaderboard)
 
 ## 生成AIに関するガイドライン
 
-- [初等中等教育段階における生成AIの利用に関する暫定的なガイドライン](https://www.mext.go.jp/content/20230718-mtx_syoto02-000031167_011.pdf)
+- [初等中等教育段階における生成AIの利活用に関するガイドライン](https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf)
 - [AI事業者ガイドライン（第1.0版）](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/20240419_report.html)
 - [テキスト生成AI利活用におけるリスクへの対策ガイドブック](https://www.digital.go.jp/resources/generalitve-ai-guidebook)
 - [テキスト生成AIの導入・運用ガイドライン](https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2024/generative-ai-guideline.html)
 - [AIと著作権に関するチェックリスト＆ガイダンス](https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/seisaku/r06_02/pdf/94089701_05.pdf)
-- [文化庁「AIと著作権について」](https://www.bunka.go.jp/seisaku/chosakuken/aiandcopyright.html)
+- [行政の進化と革新のための生成AIの調達・利活用に係るガイドライン](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf)
+
+## 情報通信白書
+
+- [令和7年(西暦2025年)版情報通信白書](https://www.soumu.go.jp/johotsusintokei/whitepaper/index.html)
 
