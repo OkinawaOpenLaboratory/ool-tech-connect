@@ -16,7 +16,6 @@
 
 ### (STEP1-2) ポーズや被写体を指定して画像を生成してみよう
 
-- 「ツール」をクリックして「画像を作成する」を選択し、青字の「画像」が表示された状態にする
 - 下記のポーズ画像、被写体画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 **ポーズ画像**
@@ -37,7 +36,6 @@
 ### (STEP1-3) 実写画像をアニメ風に修正してみよう
 
 - 左の「新しいチャット」をクリックして新しいチャットを開始
-- 「画像を作成する」アイコンをクリックして青い状態にする
 - 下記の実写画像をChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 **実写画像**
@@ -53,7 +51,6 @@
 ### (STEP1-4) 犬の特徴を反映した画像を生成してみよう
 
 - 左の「新しいチャット」をクリックして新しいチャットを開始
-- 「画像を作成する」アイコンをクリックして青い状態にする
 - 下記の犬画像をChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 **犬画像**
@@ -71,7 +68,6 @@
 ※ 無料版のChatGPTは画像のアップロードは一日三枚までとなっているので、このハンズオンを実施するにはその日に何もアップロードしていない状態でないといけません
 
 - 左の「新しいチャット」をクリックして新しいチャットを開始
-- 「画像を作成する」アイコンをクリックして青い状態にする
 - (STEP1-2)で使用したポーズ画像、被写体画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 - 下記の背景画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
@@ -97,6 +93,7 @@
 ### (STEP2-2) Geminiで画像を作成
 
 - 左上にあるGeminiロゴの下にあるLLM選択を「2.5 Flash」にしておく
+- プロンプト欄下部にある「画像」をクリックして青文字にしておく
 - 「Geminiへのプロンプトを入力」と書かれたプロンプト入力欄に下記のプロンプト例をコピーしたものを貼り付けて紙飛行機アイコン「＞」をクリック
 
 ```
@@ -153,8 +150,8 @@ AIロボットが少女にコーヒーを入れている画像を3Dアニメ風�
 
 ### (STEP3-1) 画像の外側を補完してみよう
 
-- **画像のダウンロード**
-  - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
+- **編集用画像**
+  - 下記の画像をMy Edit画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg)　woman1.jpg
 
@@ -175,8 +172,8 @@ AIロボットが少女にコーヒーを入れている画像を3Dアニメ風�
 
 ### (STEP3-2) 画像の不要なモノを削除してみよう
 
-- **画像のダウンロード**
-  - 下記の画像をダウンロードしておく (右クリックして名前を付けて画像を保存をクリック)
+- **編集用画像**
+  - 下記の画像をClipdrop画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg)　woman2.jpg
 
@@ -185,17 +182,17 @@ AIロボットが少女にコーヒーを入れている画像を3Dアニメ風�
   - 右上の「Sign-in/Sign-up」をクリック
   - 「Sign in to continue」画面で「Continue with Google」を選択してGoogleアカウントでログイン
 - **不要なモノを削除**
-  - 「Image edition」をクリック後、上から2段目の真ん中にある「Cleanup」をクリック
+  - 「Image edition」をクリック後、「Cleanup」をクリック
   - 「Click, paste, or drop a file here to start.」をクリックして`woman2.jpg`をアップロード
   - 緑色の円でテーブルの上の物を塗りつぶして「Clean」をクリック
 
 ### (STEP3-3) 画像の背景を除去してみよう
 
 - **Clipdropのメインページへ戻る**
-  - 左上の「< Back」をクリックして「CLEANUP」の画面に戻る
-  - 左上の「Clipdrop by Jasper」をクリックしてメインページへ戻る
+  - 左上の「< Back」をクリックして「CLEANUP」の画面に戻った後、左上の「Clipdrop by Jasper」をクリックしてメインページへ戻る
+    - 左上が「三」アイコンになっている場合は、「三」をクリックして「All tools」をクリックしてメインページへ戻る
 - **背景の除去**
-  - 「Image edition」をクリック後、上から2段目の一番左にある「Remove background」をクリック
-  - 「Click, paste, or drop up to 10 files here to start.」をクリックして`woman2.jpg`をアップロード
+  - 「Image edition」をクリック後、「Remove background」をクリック
+  - 「Click, paste, or drop up to 10 files here to start.」をクリックして、STEP3-2の画像をドラッグアンドドロップかアップロードする
   - 「Remove background」をクリック
 
