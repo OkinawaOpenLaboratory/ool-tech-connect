@@ -177,7 +177,7 @@ AIロボットが少女にコーヒーを入れている画像を3Dアニメ風�
   - 「Image edition」をクリック後、「Cleanup」をクリック
   - 下記の画像を「Click, paste, or drop a file here to start.」にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg)　woman2.jpg
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/park.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/park.png)　park.png
 
   - アップロードが終わったらウィンドウを最大化あるいは全画面表示に
   - 緑色の円でテーブルの上の物を塗りつぶして「Clean」をクリック
