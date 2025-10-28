@@ -133,12 +133,6 @@ SF, 宇宙, 衛星, 地球, 光, 無重力, ドリーショット, 高精細CG
 穏やか, リアルライティング
 ```
 
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot2.jpg)　robot2.jpg
-
-```
-ロボットがこちらにあいさつしている
-```
-
 - 動画生成が完了したら動画クリックで拡大再生ができる
   - 拡大時は左上の「＜」アイコンで前画面へ戻れる
 - 左上の「←□」アイコンをクリックするとメイン画面に戻れる
