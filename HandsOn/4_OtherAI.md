@@ -87,28 +87,50 @@
 SF, 惑星, ロボット, 星空, パン, シネマティック, 静寂, 光の粒子
 ```
 
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/beach.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/beach.jpg)　beach.jpg
+◆夜明け前の近未来都市
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/city.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/city.jpg)　city.jpg
 
 ```
-砂浜に波が打ち寄せている。遠くの雲はゆっくり動いている。
+近未来の都市を朝焼けの光が照らし始める。
+夜のネオンがまだ残る街に、空を飛ぶ車がゆっくりと移動する。
+カメラは高層ビルの間をドローンのように前進し、
+光が街を染めていく。
+シネマティック, 近未来, 朝焼け, 都市, SF, 
+ドローンショット, 光の反射, 高解像度
 ```
 
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot.jpg)　robot.jpg
+◆宇宙空間を漂う人工衛星
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/satellite.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/satellite.jpg)　satellite.jpg
 
 ```
-会議室のロボットに話しかけている男性。ロボットはうなづきながら話を聞いている。ほかの人物はしずかに座っている。
+静かな宇宙空間で地球を背景に人工衛星がゆっくりと回転している。
+カメラは衛星の周囲を旋回しながら、太陽光が反射する瞬間を捉える。
+SF, 宇宙, 衛星, 地球, 光, 無重力, ドリーショット, 高精細CG
 ```
 
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cat.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/cat.jpg)　cat.jpg
+◆森の奥で召喚儀式を行うエルフ
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/elf.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/elf.jpg)　elf.jpg
 
 ```
-猫が床で楽しそうに遊んでいる
+夜の森の中、エルフが光る魔法陣の前に立ち、召喚の呪文を唱える。
+周囲の木々が光に照らされ、魔法の波動が空気を揺らす。
+カメラはゆっくりと円を描いて回転。
+ファンタジー, エルフ, 森, 魔法, 光の粒子, 儀式, 夜, シネマティック
 ```
 
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/dog.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/dog.jpg)　dog.jpg
+◆高原の風車と流れる雲
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/highlands.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/highlands.jpg)　highlands.jpg
 
 ```
-犬が遊んでいる
+広い高原に並ぶ風車がゆっくりと回り、空には雲が流れていく。
+カメラは低空から上昇しながら、風車群を俯瞰する構図。
+柔らかい自然光で穏やかな印象。
+自然, ドキュメンタリー, 高原, 風車, 空, 雲, ドローン, 
+穏やか, リアルライティング
 ```
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/robot2.jpg)　robot2.jpg
@@ -120,7 +142,7 @@ SF, 惑星, ロボット, 星空, パン, シネマティック, 静寂, 光の�
 - 動画生成が完了したら動画クリックで拡大再生ができる
   - 拡大時は左上の「＜」アイコンで前画面へ戻れる
 - 左上の「←□」アイコンをクリックするとメイン画面に戻れる
-- 左メニューの「アセット」をクリックすると今まで作成した動画を一覧表示で見ることができる
+- メイン画面で左メニューの「アセット」をクリックすると今まで作成した動画を一覧表示で見ることができる
 
 ## (STEP2) スライド生成AIを体験しよう
 
