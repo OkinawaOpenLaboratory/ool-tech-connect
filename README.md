@@ -13,3 +13,7 @@
 - [3分プレゼンテーションの基本構成とおすすめテーマ](HandsOn/1_Theme.md)
 - [プレゼンテーションの作成](HandsOn/1_Presentation.md)
 
+
+## 過去の開催
+
+- [過去の開催内容](History/History.md)
