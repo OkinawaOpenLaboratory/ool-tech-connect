@@ -5,14 +5,24 @@
 ## 事前準備
 
 - [Googleアカウント作成](HandsOn/0_GoogleAccount.md)
-- [プレゼンテーション内容の検討](HandsOn/0_ContentPlanning.md)
+- [利用するサービスへの登録](HandsOn/0_ServiceSignUp.md)
+- [モバイル版Geminiのインストール](HandsOn/0_AppInstallation.md)
 
-## プレゼンテーションの作成
+## イベント案内
 
-- [ハンズオンの進め方](HandsOn/1_TimeTable.md)
-- [3分プレゼンテーションの基本構成とおすすめテーマ](HandsOn/1_Theme.md)
-- [プレゼンテーションの作成](HandsOn/1_Presentation.md)
+- [イベントおよび懇親会情報](HandsOn/1_Event.md)
 
+## AIチャット
+
+- [AIチャットを体験しよう](HandsOn/2_AIChat.md)
+
+## 画像生成AI
+
+- [画像生成AIを体験しよう](HandsOn/3_ImageGenAI.md)
+
+## その他AI
+
+- [その他AIを体験しよう](HandsOn/4_OtherAI.md)
 
 ## 過去の開催
 
