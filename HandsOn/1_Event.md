@@ -29,6 +29,10 @@
     - 画像生成AIを体験しよう(ChatGPT/Google Gemini/Google Flow/Lovart)
     - その他AI(動画生成/3Dオブジェクト生成/AIアバター生成/説明図生成)を体験しよう(PixVerse/Meshy/Vidnoz AI/Napkin)
 
+## 注意事項
+
+※ セミナーの内容は予告なく変更となる場合がございます
+
 ## 懇親会
 
 - 会場：沖縄酒場 離 ～Hanare～(那覇市久茂地1-8-1 1F) 
