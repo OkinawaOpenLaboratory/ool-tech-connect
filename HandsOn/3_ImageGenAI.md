@@ -1,6 +1,6 @@
 # 画像生成AIを体験しよう
 
-## (STEP1) 高度な画像生成を体験しよう
+## (STEP1) GPT Image 1.5を使ってみよう
 
 **◆ハンズオン内容◆** : 画像の対象やポーズを指定した画像生成や画風変更を体験しよう
 
@@ -16,7 +16,7 @@
 
 ### (STEP1-2) ポーズや被写体を指定して画像を生成してみよう
 
-- 下記のポーズ画像、被写体画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
+- 下記のポーズ画像、被写体画像、背景画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
 
 **ポーズ画像**
 
@@ -27,79 +27,136 @@
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman-anime.png)　woman-anime.png
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/man-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/man-anime.png)　man-anime.png
 
-- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
-
-```
-二番目の画像の被写体が最初の画像のポーズをしていて背景が市街地の画像を作成して
-```
-
-### (STEP1-3) 実写画像をアニメ風に修正してみよう
-
-- 左の「新しいチャット」をクリックして新しいチャットを開始
-- 下記の実写画像をChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
-
-**実写画像**
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg)　woman1.jpg
-
-- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
-
-```
-この画像をアニメ風に修正して
-```
-
-### (STEP1-4) 犬の特徴を反映した画像を生成してみよう
-
-- 左の「新しいチャット」をクリックして新しいチャットを開始
-- 下記の犬画像をChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
-
-**犬画像**
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/shiba.png)　shiba.png
-
-- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
-
-```
-この画像の被写体が砂浜を走っている画像を作成して
-```
-
-### (STEP1-5) ポーズ・被写体・背景を指定した画像で生成してみよう
-
-※ 無料版のChatGPTは画像のアップロードは一日三枚までとなっているので、このハンズオンを実施するにはその日に何もアップロードしていない状態でないといけません
-
-- 左の「新しいチャット」をクリックして新しいチャットを開始
-- (STEP1-2)で使用したポーズ画像、被写体画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
-- 下記の背景画像をそれぞれChatGPT画面にドラッグアンドドロップするか、ダウンロード後にアップロードする
-
 **背景画像**
 
 [<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/background-anime.png" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/background-anime.png)　background-anime.png
 
-- プロンプトの入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
+- プロンプト入力エリアの左にある「＋」をクリックして「画像を作成する」を選択
+- プロンプト入力エリアに下記のプロンプト例をコピーして貼り付けて「↑」をクリック
 
 ```
 二番目の画像の被写体が最初の画像のポーズをしている三番目の画像を背景とした
 画像を作成して
 ```
 
-## (STEP2) いろいろな画像を生成してみよう
+## (STEP2) Nano Banana Proを使ってみよう
 
-**◆ハンズオン内容◆** : 無料でたくさんの画像生成が可能なGoogle Whiskを利用していろいろな画像を生成してみよう
+### (STEP2-1) Geminiにログイン
 
-### (STEP2-1) Whiskにログイン
+- [Gemini](https://gemini.google.com/)を右クリックして「新しいウィンドウで開く」
+- 右上の「ログイン」アイコンをクリックしてGoogleアカウントでログイン
 
-- [Whisk](https://labs.google/fx/tools/whisk)を右クリックして「新しいウィンドウで開く」
-- アカウント選択画面になるのでGoogleアカウントでログイン
+### (STEP2-2) Geminiで画像を生成
 
-### (STEP2-2) Whiskで画像を作成
+- 「Geminiへのプロンプトを入力」と書かれたプロンプト入力欄の右下にある「高速モード/思考モード/Pro」を「思考モード」に設定
+- 「ツール」をクリックして「画像を作成」を選択
+- 下記のプロンプト例をコピーしたものを貼り付けて紙飛行機アイコン「＞」をクリック
 
-- 中央にある「ツールを開く→」をクリック
-- 「Whiskへようこそ」ウィンドウが開くので右上の×をクリックして閉じる
-- 「アイデアについて説明するか、サイコロを振ってアイデアを広げます」と書かれたプロンプト入力欄に下記のプロンプト例をコピーしたものを貼り付けて「→」をクリック
-  - 生成された画像の右上の「↓」アイコンをクリックすれば画像をダウンロードできる
-  - 「編集する」をクリックすると画像の編集モードになる。「編集内容について説明してください」の欄に「線画に変更して」などの指示を与えると、その指示に従った修正が実施される
-  - 編集モードは右上の「調整モード×」のアイコンをクリックすると終了する
-  - 右上の「マイライブラリ」をクリックすると新しいタブで画像の生成履歴が閲覧可能になる
+```
+JOYSOUNDの2025年カラオケランキングの内容をインフォグラフィック風にまとめてください。
+文字は日本語表記にしてください
+```
+
+```
+那覇市の観光スポットをグラレコ風の地図にまとめてください。
+文字は日本語表記にしてください。
+```
+
+### (STEP2-3) Geminiで画像に説明を追加
+
+- 下記画像をダウンロードしておく
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/sumida_river.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/sumida_river.jpg)　sumida_river.jpg
+
+- 「Geminiへのプロンプトを入力」と書かれたプロンプト入力欄の右下にある「高速モード/思考モード/Pro」を「思考モード」に設定
+- 「ツール」をクリックして「画像を作成」を選択
+- 下記プロンプトをコピーしたものを貼り付けて紙飛行機アイコン「＞」をクリック
+
+```
+この写真を使ってこの場所や建物についての説明を視覚的に追加してください
+```
+
+## (STEP3) 生成AIをつかって画像内の文字を修正してみよう
+
+- 下記画像をダウンロードしておく
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/text.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/text.png)　text.png
+
+- [Lovart](https://www.lovart.ai/)を右クリックして「新しいウィンドウで開く」
+- 右上の「新規登録」をクリックして、Googleで続けるを選択してGoogleアカウントでログイン
+- 「Lovartでデザインがより簡単に」画面になるので、左にならんでいるアイコンの「＋」(新規プロジェクト)をクリックして新規プロジェクトを作成
+- 左側にチャット画面が開くので右上の非表示アイコンをクリックして非表示に
+- 左の「＋」をクリックして「画像のアップロード」を選択し、ダウンロードした画像をアップロード
+- 画像のアップロードが完了すると画像の上部にメニューが表示される
+  - 画面の拡大縮小はCtrl+マウス操作、画面のスクロールはスペースキー＋マウス操作
+- この画像の上部のメニューから「テキスト編集」を選択
+- テキスト編集というウィンドウが開くのでテキストを編集して「編集提出」をクリック
+
+## (STEP4) 生成AIをつかって画像を修正してみよう
+
+### (STEP4-1) Flowにログイン
+
+- [Flow](https://labs.google/fx/tools/flow)を右クリックして「新しいウィンドウで開く」
+- 下部にCookiesの使用許可が出たら「OK, got it」をクリック
+- 「Sign in with Google」をクリックすると、アカウント選択画面になるのでGoogleアカウントでログイン
+- 「創作とサポートするAIツールのテストと改善」ウィンドウが開いて、メール受信を希望するかの確認ウィンドウが出るので「次へ」をクリック
+- 「Googleのプライバシーポリシーの確認」ウィンドウが開くので、下部までスクロールして「続行」をクリック
+
+### (STEP4-2) Flowで画像を拡張
+
+- 「＋新しいプロジェクト」をクリック
+- 「開始するにはプロンプトボックスに入力してください」画面が表示される
+- 左上の「動画」「画像」というアイコンの「画像」をクリック
+- 「テキストと素材から画像を生成」とかかれたプロンプト欄の左上の設定アイコンをクリック
+  - 縦横比を「横向き(16:9)」、プロンプトごとの出力を「2」、モデルを「Nano Banana Pro」に設定
+- 下記画像をダウンロードしておく
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/android.jpg" width="20%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/android.jpg)　android.jpg
+
+- 「テキストと素材から画像を生成」とかかれたプロンプト欄の左下の「＋」アイコンをクリック
+- アップロードをクリックして、ダウンロードした画像を選択
+- 「横長」を「縦長」に変更
+- 「切り抜きして保存」をクリック
+- プロンプト入力エリアに下記のプロンプトをコピーして貼り付けて「→」をクリック
+
+```
+この画像を16:9の画像の右側に貼り付けて、左側の空きの部分はこの画像から
+連続した背景がつながっている形にして、左側にあとでタイトル文字などを
+入れられるような画像を作成して
+```
+
+### (STEP4-3) Flowで画像内のモノを差し替え
+
+- 下記画像をダウンロードしておく
+
+[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg)　woman2.jpg
+
+- 「テキストと素材から画像を生成」とかかれたプロンプト欄の左下の「＋」アイコンをクリック
+- アップロードをクリックして、ダウンロードした画像を選択
+- 「切り抜きして保存」をクリック
+- プロンプト入力エリアに下記のプロンプトをコピーして貼り付けて「→」をクリック
+
+```
+女性のもっているティーカップをマグカップに変更して
+```
+
+### (STEP4-4) Flowで画像内のモノを削除
+
+- (STEP4-3)で生成された画像の一つをクリック
+- 上部のメニューが一番左のペンアイコンになっていることを確認して、画像のテーブルの上のティーカップと花瓶をマウスを使って赤線で囲む
+- プロンプト入力エリアに下記のプロンプトをコピーして貼り付けて「→」をクリック
+- 生成終了後、「閉じる」でプロジェクト画面に戻る
+
+```
+赤い線で囲った部分を削除して
+```
+
+## (STEP5) いろいろな画像を生成してみよう
+
+### (STEP5-1) Flowでいろいろな画像を作成
+
+- Flowのプロンプト入力エリアに下記のプロンプトをコピーして貼り付けて「→」をクリックしていろいろな画像を生成しよう
+- Nano Banana Proの生成数上限になった場合はNano Bananaにして生成を続けよう
 
 ◆ビジネススライド向け
 
@@ -279,56 +336,4 @@ AIが支配するメガシティの夜景、無数のホログラム広告
 ```
 データの流れを波や風で表現した抽象アート、青系トーン、PowerPoint背景向け
 ```
-
-## (STEP3) 生成AIを使って画像のレタッチをしてみよう
-
-**◆ハンズオン内容◆** : 画像の外側の補完や不要なモノの消去などを体験しよう
-
-### (STEP3-1) 画像の外側を補完してみよう
-
-- **My Editにログイン**
-  - [My Edit](https://myedit.online/jp/photo-editor)を右クリックして「新しいウィンドウで開く」
-  - 右上の「サインイン」をクリック
-  - 「CyberLinkアカウントでサインイン」画面で「Google」アイコンを選択してGoogleアカウントでログイン
-  - 「CyberLinkへようこそ」画面で情報受け取りが不要ならチェックマークを外して「次へ」をクリック
-- **無料クレジットの受け取り**
-  - 右上のユーザーアイコンをクリックして「無料クレジットを獲得」を選択し、「3クレジットをもらう」をクリック。受け取り後は右上の×をクリックして無料クレジット受け取りウィンドウを閉じる
-- **AI画像拡張で画像の外側を補完**
-  - 「画像編集」の「AI画像拡張」をクリック
-  - 下記の画像を「ここに画像ファイルをドラッグ＆ドロップしてアップロード。」エリアにドラッグアンドドロップするか、ダウンロード後に「ファイルを選択」をクリックしてアップロードする
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman1.jpg)　woman1.jpg
-
-  - 「より良いエクスペリエンスのためのデータ処理」ウィンドウが開いたら、データ処理内容に同意するチェックボックスにチェックを入れて「続行」をクリック
-  - 「縦横比」を「1:1」に変更して画像を少し上へ移動させる
-  - 「生成」ボタンをクリック
-
-### (STEP3-2) 画像の不要なモノを削除してみよう
-
-- **Clipdropにログイン**
-  - [Clipdrop](https://clipdrop.co/)を右クリックして「新しいウィンドウで開く」
-  - 右上の「Sign-in/Sign-up」をクリック
-  - 「Sign in to continue」画面で「Continue with Google」を選択してGoogleアカウントでログイン
-- **不要なモノを削除**
-  - 「Image edition」をクリック後、「Cleanup」をクリック
-  - 下記の画像を「Click, paste, or drop a file here to start.」にドラッグアンドドロップするか、ダウンロード後にアップロードする
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/park.png" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/park.png)　park.png
-
-  - アップロードが終わったらウィンドウを最大化あるいは全画面表示に
-  - 緑色の円でテーブルの上の物を塗りつぶして「Clean」をクリック
-
-### (STEP3-3) 画像の背景を除去してみよう
-
-- **Clipdropのメインページへ戻る**
-  - 左上の「< Back」をクリックして「CLEANUP」の画面に戻った後、左上の「Clipdrop by Jasper」をクリックしてメインページへ戻る
-    - 左上が「三」アイコンになっている場合は、「三」をクリックして「All tools」をクリックしてメインページへ戻る
-- **背景の除去**
-  - 「Image edition」をクリック後、「Remove background」をクリック
-  - 下記の画像を「Click, paste, or drop up to 10 files here to start.」にドラッグアンドドロップするか、ダウンロード後にアップロードする
-
-[<img src="https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg" width="40%">](https://github.com/OkinawaOpenLaboratory/ool-tech-connect/raw/main/MediaFiles/woman2.jpg)　woman2.jpg
-
-  - アップロードが終わったらウィンドウを最大化あるいは全画面表示に
-  - 「Remove background」をクリック
 
