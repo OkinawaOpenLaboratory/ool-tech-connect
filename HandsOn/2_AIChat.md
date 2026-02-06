@@ -185,11 +185,26 @@ PowerPointを他の会社に送るので作成者などの情報を消したい
 
 - 「最初のノートブックを作成する」画面になったら「作成」ボタンをクリック
   - すでにノートブックを作成済みの場合は「＋ノートブックを新規作成」をクリック
-- 下記のリンクのいずれかのリンクを右クリックして「リンクのアドレスをコピー」でURLをコピー
+- 下記のいずれかの動画のリンクを右クリックして「リンクのアドレスをコピー」でURLをコピーするか、調査レポートのURLリストをコピー
   - Youtube検証動画(6分9秒) : [携帯電話を使いながら充電するとバッテリーが消耗しますか?](https://www.youtube.com/watch?v=Lj4LMlGr4og)
   - Youtube紹介動画(17分56秒) : [Touring Dell's Factory that Builds AI Factories](https://www.youtube.com/watch?v=8BSA67BqWjw)
   - Youtube講演動画(42分33秒) : [Deep dive into AI tools in Copilot Studio | BRK315](https://www.youtube.com/watch?v=BLQ8XZ5PXF4)
   - Pew Research Center調査レポート : [How People Around the World View AI](https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/)
+
+**調査レポート用URLリスト**
+
+```
+https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/
+https://www.pewresearch.org/global/2025/10/15/ai-awareness-around-the-world/
+https://www.pewresearch.org/global/2025/10/15/concern-and-excitement-about-ai/
+https://www.pewresearch.org/global/2025/10/15/trust-in-own-country-to-regulate-use-of-ai/
+https://www.pewresearch.org/global/2025/10/15/trust-in-the-eu-u-s-and-china-to-regulate-use-of-ai/
+https://www.pewresearch.org/global/2025/10/15/appendix-a-classifying-european-political-parties-2/
+https://www.pewresearch.org/global/2025/10/15/appendix-b-political-categorization-3/
+https://www.pewresearch.org/global/2025/10/15/acknowledgments-ai-global/
+https://www.pewresearch.org/global/2025/10/15/methodology-ai-global/
+```
+
 - 「～から音声解説と動画解説を作成する」ウィンドウの下部にある「または、ここにファイルをドラッグ＆ドロップする」あるいは「or drop your files」の下にある「ウェブサイト」をクリックして、「リンクを貼り付ける」欄にコピーしたURLを貼り付けて「挿入」をクリック
 - 左ペインに表示されたソースの名前の右にチェックマークがついたら読み込み完了
   - 左ペインが表示されていない場合は、ソースタブをクリックしてソースペインを表示して読み込み完了を確認
