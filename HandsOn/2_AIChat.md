@@ -187,7 +187,9 @@ PowerPointを他の会社に送るので作成者などの情報を消したい
   - すでにノートブックを作成済みの場合は「＋ノートブックを新規作成」をクリック
 - 下記のいずれかの動画のリンクを右クリックして「リンクのアドレスをコピー」でURLをコピーするか、調査レポートのURLリストをコピー
   - Youtube検証動画(6分9秒) : [携帯電話を使いながら充電するとバッテリーが消耗しますか?](https://www.youtube.com/watch?v=Lj4LMlGr4og)
+  - Youtube解説動画(10分33秒) : [なぜ「頑張っている人」ほど報われないのか？](https://www.youtube.com/watch?v=fQTSAVGMyKQ)
   - Youtube紹介動画(17分56秒) : [Touring Dell's Factory that Builds AI Factories](https://www.youtube.com/watch?v=8BSA67BqWjw)
+  - Youtube解説動画(18分45秒) : [Google製AIツール「NotebookLM」の新機能と使い方を徹底解説！](https://www.youtube.com/watch?v=CImnBFhvdZY)
   - Youtube講演動画(42分33秒) : [Deep dive into AI tools in Copilot Studio | BRK315](https://www.youtube.com/watch?v=BLQ8XZ5PXF4)
   - Pew Research Center調査レポート : [How People Around the World View AI](https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/)
 
