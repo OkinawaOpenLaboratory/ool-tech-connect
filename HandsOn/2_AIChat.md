@@ -236,40 +236,54 @@ style_configuration:
     aspect_ratio: "16:9"
   
   typography:
-    heading_font: "Meiryo UI, MS Gothic, sans-serif"
-    body_font: "Meiryo UI, MS Gothic, sans-serif"
+    heading_font: "Yu Gothic, 游ゴシック, sans-serif"
+    body_font: "Yu Gothic, 游ゴシック, sans-serif"
+    sizes:
+      title: "26pt"
+      lead: "18pt"
+      body: "16pt"
     colors:
-      primary_text: "#333333"
-      heading: "#000000"
-      accent_red: "#C00000"  # 注意書き・強調用
-      link_blue: "#4472C4"    # ハイパーリンク用
+      title: "#282D3C"
+      lead: "#515B7A"
+      body: "#282D3C"
+      emphasis: "#E61E8C"
   
   layout_elements:
     header:
       show_top_border: false
       title_alignment: "left"
-      title_font_size: "24pt"
+      title_font_size: "26pt"
       margin_top: "40px"
     
     content_area:
-      bullet_style: "square" # 四角い箇条書き
-      bullet_color: "#4472C4" # 箇条書きの色（青系）
+      bullet_style: "square"
+      bullet_color: "#515B7A"
+      body_font_size: "16pt"
       line_spacing: "1.5"
       paragraph_spacing: "15px"
+    
+    lead_text:
+      font_size: "18pt"
+      color: "#515B7A"
+      position: "below_title"
 
   visual_cues:
     - element: "Section Header"
-      prefix: "■" # セクションタイトルの前に付与する記号
+      prefix: "■"
       font_weight: "bold"
-    - element: "Warning Text"
-      color: "#C00000" # ピンク〜赤系の警告色
+      color: "#282D3C"
+    - element: "Emphasis Text"
+      color: "#E61E8C"
 
 instructions: |
-  1. タイトルは左上に配置し、太字で大きく表示すること。
-  2. 導入文（説明文）はタイトルの直下に配置すること。
-  3. 各項目は「■」で始まるセクションタイトルで区切り、その下に箇条書きを配置すること。
-  4. 箇条書きの特定の項目（警告や注意点）は、フォントカラーをアクセントレッド（#C00000）に変更すること。
-  5. フッター部分は最下部から5cmほどの空白を空けておくこと
+  1. タイトルは左上に配置し、游ゴシック26pt、色#282D3Cで表示すること。
+  2. タイトル下のリード文は游ゴシック18pt、色#515B7Aで配置すること。
+  3. 本文は游ゴシック16pt、色#282D3Cで表示すること。
+  4. 強調する文字は#E61E8Cを使用すること。
+  5. 各項目は「■」で始まるセクションタイトルで区切り、その下に四角い箇条書きを配置すること。
+  6. 箇条書きの四角の色は#515B7Aを使用すること。
+  7. 背景色は白とすること。
+  8. フッター部分は最下部から5cmほどの空白を空けておくこと。
 ```
 
 - インフォグラフィックの作成 (無料ユーザーは1日3つ作成可能)
