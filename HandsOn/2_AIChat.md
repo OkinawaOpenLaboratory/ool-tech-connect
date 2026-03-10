@@ -190,6 +190,7 @@ PowerPointを他の会社に送るので作成者などの情報を消したい
   - Youtube解説動画(10分33秒) : [なぜ「頑張っている人」ほど報われないのか？](https://www.youtube.com/watch?v=fQTSAVGMyKQ)
   - Youtube紹介動画(17分56秒) : [Touring Dell's Factory that Builds AI Factories](https://www.youtube.com/watch?v=8BSA67BqWjw)
   - Youtube解説動画(18分45秒) : [Google製AIツール「NotebookLM」の新機能と使い方を徹底解説！](https://www.youtube.com/watch?v=CImnBFhvdZY)
+  - Youtube解説動画(36分1秒) : [これ一本でわかる！知識ゼロからNISAを始める完全ガイド](https://www.youtube.com/watch?v=NtyOvIPipak)
   - Youtube講演動画(42分33秒) : [Deep dive into AI tools in Copilot Studio | BRK315](https://www.youtube.com/watch?v=BLQ8XZ5PXF4)
   - Pew Research Center調査レポート : [How People Around the World View AI](https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/)
 
@@ -289,7 +290,7 @@ instructions: |
 - インフォグラフィックの作成 (無料ユーザーは1日3つ作成可能)
   - Studioとかかれた右ペインの「インフォグラフィック」欄の右にあるペンアイコンをクリック
     - 右ペインが表示されていない場合はStudioタブをクリックしてStudioペインを表示させてから「スライド作成」欄の右にあるペンアイコンをクリック
-  - 言語を「日本語」、レイアウトを「横向き」、詳細レベルを「簡潔」に設定して「生成」をクリック
+  - 言語を「日本語」、レイアウトを「横向き」、ビジュアルスタイルはお好きなものを選択、詳細レベルを「簡潔」に設定して「生成」をクリック
   - 「インフォグラフィックを生成しています…」と表示され矢印が回転しはじめる
   - 右ペイン下部に棒グラフアイコンでインフォグラフィックが作成される
   - クリックすると生成されたインフォグラフィックを確認できる。右上の×アイコンクリックで閉じることが可能
