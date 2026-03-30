@@ -8,10 +8,6 @@
 - [利用するサービスへの登録](HandsOn/0_ServiceSignUp.md)
 - [モバイル版Geminiのインストール](HandsOn/0_AppInstallation.md)
 
-## イベント案内
-
-- [イベントおよび懇親会情報](HandsOn/1_Event.md)
-
 ## AIチャット
 
 - [AIチャットを体験しよう](HandsOn/2_AIChat.md)
